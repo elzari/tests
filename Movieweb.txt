@@ -1,0 +1,354 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+                <title>MovieBoxPro</title>
+                <link rel="stylesheet" type="text/css" href="/static/css/style_mobile.css?rand=jg-3s12678sj433"/>
+        <link rel="stylesheet" type="text/css" href="/static/css/titatoggle-dist.css?rand=123456"/>
+        <link rel="stylesheet" type="text/css" href="/static/css/jquery.autocomplete.css?rand=21234112" />
+        <link rel="apple-touch-icon" href="/static/img/apple-touch-icon.png">
+                <style type="text/css">
+            .checkbox-slider--b input + span:before{box-shadow: 0 0 0 0;background: rgba(100, 100, 100, 0.3);}
+            .checkbox-slider--b input + span:after{width:16px;height:16px;}
+            .checkbox-slider--b input:checked + span:before{background:#007AFF;}
+        </style>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-SSBQC5HB90"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-SSBQC5HB90');
+        </script>
+    </head>
+    <style>
+        .contents .vip_introduce{text-align:center;}
+        .contents .vip_introduce .name{color:#fff;font-size:24px;}
+        .contents .vip_introduce .desc{color:rgba(255,255,255,0.6);font-size:12px;margin-top:8px;padding:0 20px;}
+        .contents .vip_introduce .tips{color:rgba(255,255,255,0.49);font-size:12px;margin-top:12px;}
+        .contents .vip_info{color:rgba(255,255,255,0.3);font-size:12px;margin-top:60px;padding:0 16px;}
+        .contents .feature{display:inline-block;color:rgba(153,153,153,0.71);font-size:14px;font-weight:bold;margin:8px 0 0 16px;}
+        .contents .vip_plan{display:block;padding:0 16px;margin-top:40px;}
+        .vip_feature_bg{width:100%;height:100%;position:fixed;top:0;left:0;background-color:#000;display:none;}
+        .vip_feature_bg .pinch-zoom{position:absolute;top:20px;}
+        .contents .top_info{padding:16px 16px 0;border-bottom:1px solid rgba(255,255,255,0.1);}
+        .contents .top_info .account{overflow:hidden;}
+        .contents .top_info .account .avatar{width:40px;height:40px;border-radius:20px;float:left;}
+        .contents .top_info .account .left{float:left;margin-left:8px;line-height:22px;}
+        .contents .top_info .account .left .name{color:#fff;font-size:16px;font-weight:bold;}
+        .contents .top_info .account .left .email{color:rgba(255,255,255,0.5);font-size:12px;}
+        .contents .top_info .account .left .email img{vertical-align:middle;margin-left:4px;}
+        .contents .top_info .account .left .uid{color:rgba(255,255,255,0.5);font-size:12px;}
+        .contents .top_info .account .account_edit{float:right;}
+        .contents .top_info .vip_time{padding:12px 0;border-top:1px solid rgba(255,255,255,0.11);color:rgba(255,255,255,0.87);overflow:hidden;line-height:32px;}
+        .contents .top_info .vip_time .time{color:#FFDD46;}
+        .contents .top_info .vip_time .surplus{color:rgba(255,255,255,0.5);}
+        .contents .top_info .vip_time .btn{width:78px;height:30px;border:1px solid rgba(255,255,255,0.63);border-radius:18px;color:#fff;font-size:14px;text-align:center;line-height:32px;float:right;}
+    </style>
+    <body>
+		<div class="wrap">
+			<div class="movie">
+                <div class="header">
+                    <a href="/" class="logo"><img src="/static/img/mobile/logo_2.png" width="64" /></a>
+                    <img src="/static/img/search2.png" width="22" class="search_btn" />
+                    <img src="/static/img/mobile/sidebarbtn.png" class="sidebar" />
+                </div>
+                <div class="searchbg">
+    <div class="search">
+        <img src="/static/img/mobile/back.png" width="22" class="search_close" />
+        <div>
+            <img src="/static/img/mobile/search.png" width="16" style="vertical-align:middle;" />
+            <form id="search_form" action="/index/search/search" method="get" style="height:100%;display:inline-block;">
+                <input class="txt" type="text" name="key" placeholder="Search" />
+            </form>
+        </div>
+    </div>
+    <div class="search_hot" style="padding:16px 8px;">
+        <div class="trends">
+            <div>Trends</div>
+        </div>
+    </div>
+    <div class="search_text" style="padding:16px 8px;">
+        <div class="trends">
+        </div>
+    </div>
+    <div class="loading"><img src="/static/img/mobile/loading.png" width="30"></div>
+</div>
+<!--<div class="child_code_popup" style="display:none">-->
+<!--    <div class="child_code">-->
+<!--        <p><img src="/static/img/mobile/popup_close.png?rand=2" width="14" class="popup_close"></p>-->
+<!--        <p class="name">Trun on Child Mode</p>-->
+<!--        <p class="desc">Add four numbers to turn on child mode, remember the password to turn off it in case.</p>-->
+<!--        <div class="val-box" id="val-box">-->
+<!--            <input type="text" id="val-code-input" maxlength="4" onkeyup="checkForNum(this)" onselectstart="return false;" onblur="checkForNum(this)">-->
+<!--            <div name="val-item" class="val-item"></div>-->
+<!--            <div name="val-item" class="val-item"></div>-->
+<!--            <div name="val-item" class="val-item"></div>-->
+<!--            <div name="val-item" class="val-item"></div>-->
+<!--        </div>-->
+<!--        <p><img src="/static/img/mobile/turn_on.png?rand=2" width="86.2%" class="turn_on"></p>-->
+<!--    </div>-->
+<!--</div>-->
+<div class="child_mode_popup" style="display: none">
+    <div class="child_mode_con">
+        <p class="name"><span>Child Mode</span><img src="/static/img/mobile/popup_close.png?rand=2" width="14" class="popup_close"></p>
+        <div class="mode">
+            <img src="/static/img/mobile/child_mode.png" width="214">
+            <div class="on-off">
+                <div class="left">
+                    <p>Child Mode</p>
+                    <p>Auto hide contents of R18</p>
+                </div>
+                <div class="checkbox checkbox-slider--b" style="float:right;top:5px;right:10px;">
+                    <label>
+                        <input type="checkbox" name="child_mode"><span></span>
+                    </label>
+                </div>
+            </div>
+        </div>
+        <div class="mode">
+            <img src="/static/img/mobile/super_child_mode.png" width="214">
+            <div class="on-off">
+                <div class="left">
+                    <p>Super Child Mode</p>
+                    <p>Only show lists added</p>
+                </div>
+                <div class="checkbox checkbox-slider--b" style="float:right;top:5px;right:10px;">
+                    <label>
+                        <input type="checkbox" name="super_child_mode"><span></span>
+                    </label>
+                </div>
+            </div>
+            <div class="set_lists">
+                <p>Manage Lists</p>
+                <img src="/static/img/mobile/into.png" width="6" class="manage_lists">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="child_code_set_popup" style="display: none">
+    <div class="child_code_set">
+        <p><img src="/static/img/mobile/popup_close.png?rand=2" width="14" class="popup_close"></p>
+        <p class="name">Set Password</p>
+        <p class="desc">Password required to active Child Mode</p>
+        <div class="val-box" id="val-box">
+            <input type="text" id="val-code-input" maxlength="4" onkeyup="checkForNum(this)" onselectstart="return false;" onblur="checkForNum(this)">
+            <div name="val-item" class="val-item available"></div>
+            <div name="val-item" class="val-item"></div>
+            <div name="val-item" class="val-item"></div>
+            <div name="val-item" class="val-item"></div>
+        </div>
+        <button class="confirm">Confirm</button>
+    </div>
+</div>
+<div class="child_code_confirm_popup" style="display: none">
+    <div class="child_code_confirm">
+        <p><img src="/static/img/mobile/popup_close.png?rand=2" width="14" class="popup_close"></p>
+        <p class="name">Verify Password</p>
+        <p class="desc">Verify the password required for Super Child Mode</p>
+        <div class="val-box" id="val-box2">
+            <input type="text" id="val-code-input2" maxlength="4" onkeyup="checkForNum(this)" onselectstart="return false;" onblur="checkForNum(this)">
+            <div name="val-item" class="val-item available"></div>
+            <div name="val-item" class="val-item"></div>
+            <div name="val-item" class="val-item"></div>
+            <div name="val-item" class="val-item"></div>
+        </div>
+    </div>
+</div>
+<div class="sidebarbg">
+    <div class="sidebarcon">
+        <div>
+            <div class="sidebar_top">
+                                <img src="https://usa2-passport.oss-us-east-1.aliyuncs.com/avatar/015/97/17/55_avatar_middle.jpg?t=1639962448" class="avatar" onerror="this.src='/static/img/avatar_default.png?rand=1';">
+                <p class="user">
+                                        <img src="/static/img/mobile/sidebar_vip.png" width="22" class="status" />
+                                        <span class="username">ZaRi_Zari6v9</span>
+                    <a href="/index/index/logout"><img src="/static/img/mobile/logout.png" width="16" style="float:right;margin:3px 0 0 10px;"/></a>
+                </p>
+                            </div>
+            <p style="border:0.5px solid #333333;"></p>
+        </div>
+        <ul class="slidebar-ul">
+            <li>
+                <a class="home" href="/">Home</a>
+            </li>
+            <li style="line-height:19px;">
+                <a class="vip" href="/index/index/myvip">VIP
+                    <span class="time">
+                        Before:1/1/2100                    </span>
+                </a>
+            </li>
+            <li style="">
+                <a class="family_plan" href="/index/family">
+                    Family Plan
+                    <span id="slidebar_family_num" style="display: none;float: right;font-size: 11px;color: rgba(255,255,255,0.5); background-color: #007AFF;padding-left:5px;padding-right: 5px;border-radius: 5px;"></span>
+                </a>
+
+            </li>
+                        <li>
+                <a class="slide_history active" href="/index/index/history">History</a>
+            </li>
+                        <li>
+                <a class="slide_fav" href="/index/index/fav_list">Favorite<span class="fav_total" style="display: none;"></span></a>
+            </li>
+            <!--            <li>-->
+<!--                <a class="search_btn search_sidebar" href="javascript:;">Search</a>-->
+<!--            </li>-->
+                        <li>
+                <a class="mylist" href="/index/playlist/my_list?type=mine">My MovieLists</a>
+            </li>
+                        <li>
+                <a class="tv_guide" href="/index/index/tv_guide">TV Guide</a>
+            </li>
+                        <li>
+                <a class="app" href="/index/index/introduce">APP</a>
+            </li>
+            <li class="private_mode">
+                <a class="private" href="javascript:void(0);">Private Mode
+                    <div class="checkbox checkbox-slider--b" style="float:right;top:-2px;">
+                        <label>
+                            <input type="checkbox" name="private_mode"><span></span>
+                        </label>
+                    </div>
+                </a>
+            </li>
+            <li class="child_mode">
+                <a class="child" href="javascript:void(0);">Child Mode</a>
+            </li>
+            <li>
+                <a class="tv_login" href="/index/index/tv_login">Code Login</a>
+            </li>
+            <li>
+                <a class="faq" href="/faq_list">FAQ</a>
+            </li>
+            <li>
+                <a class="code" href="/index/invite/code" style="margin-left: unset;line-height: unset;">Invite code</a>
+            </li>
+            <li>
+                <a class="device" href="/index/index/device">Device</a>
+            </li>
+            <li>
+                <a class="ticket" href="/index/order">Tickets</a>
+            </li>
+            <li>
+                <a class="setting" href="/index/unsubscribe/setting">Settings</a>
+            </li>
+        </ul>
+    </div>
+</div>
+            </div>
+            <div class="contents">
+                <div class="top_info">
+                    <div class="account">
+                        <img src="https://usa2-passport.oss-us-east-1.aliyuncs.com/avatar/015/97/17/55_avatar_middle.jpg?t=1639962448" onerror="this.src='/static/img/avatar_default.png?rand=1';" class="avatar">
+                        <a href="/index/index/bind_account">
+                            <div class="left">
+                                <p class="name">ZaRi_Zari6v9</p>
+                                <p class="email"><img src="/static/img/mobile/google2.png" width="12"></p>
+                                <p class="uid">UID: 15971755</p>
+                            </div>
+                        </a>
+                        <a href="/index/unsubscribe/account" class="account_edit"><img src="/static/img/mobile/account_edit.png" width="12"></a>
+                    </div>
+                    <p style="margin-top:20px;"><a href="/index/pay"><img src="/static/img/mobile/upgrade_vip.png" width="100%"></a></p>
+                    <div class="vip_time">
+
+                        <span>VIP Expire:</span><span class="time">Jan.01.2100</span><span class="surplus">(30 Days Left)</span>                        <!--
+                        <span>VIP Expire:</span> <span class="time">6/28/2021</span> <span class="surplus">(22 Days Left)</span>
+
+                        -->
+                        <a href="/index/pay"><p class="btn">Renew</p></a>
+                    </div>
+                </div>
+                <div class="vip_introduce" style="margin-top:29px">
+                    <p class="name">ALL TOGETHER</p>
+                    <p class="desc">Largest movie and TV library</p>
+                    <img src="/static/img/pc/vip_1.png" style="width:calc(100% - 32px);margin-top:28px;"/>
+                </div>
+                <div class="vip_introduce" style="margin-top:80px">
+                    <p class="name">HIGH DEFINITION</p>
+                    <p class="desc">Enjoy the best picture quality and sound  of the current technology can offer, without ads</p>
+                    <img src="/static/img/mobile/vip_2.png" style="width:100%;margin-top:26px;"/>
+                    <p class="tips">* Free users can only watch image quality below 720p</p>
+                </div>
+                <div class="vip_introduce" style="margin-top:80px">
+                    <p class="name">EVERYWHERE</p>
+                    <p class="desc">Almost all platforms include Web iOS  iPadOS  Apple TV  MacOS  Android  Android TV  Windows</p>
+                    <img src="/static/img/mobile/vip_3.png" style="width:100%;margin-top:28px;"/>
+                </div>
+                <p class="vip_info">For a better user experience, we will continue to update the application, add features or fix bugs, please update to the latest version in time.</p>
+                <a href="javascript:;" class="feature"><i>Full feature list</i></a>
+                <a href="/index/pay" class="vip_plan"><img src="/static/img/mobile/plan.png" width="100%"></a>
+            </div>
+            <footer class="footer">
+    <div class="device_app">
+        <img src="/static/img/mobile/logo_2.png" width="64">
+        <p class="app" onclick="window.location.href='/index/index/download_app';">
+            <img src="data:image/png;base64,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" width="17" height="20" />
+            <img src="data:image/png;base64,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" width="17" height="20" />
+            <img src="data:image/png;base64,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" width="18" height="18" />
+            <img src="/static/img/footer_icon_windows.png" width="17" height="19">
+        </p>
+    </div>
+    <div class="guide">
+        <div>
+            <p class="name">MovieBoxPro</p>
+            <a href="/index/index/tv_guide"><p>TV Guide</p></a>
+            <a href="/index/index/screenshot"><p>Screenshots</p></a>
+            <a href="/update_log"><p>Update Logs</p></a>
+        </div>
+        <div>
+            <p class="name">Account</p>
+            <a href="/index/index/myvip"><p>VIP</p></a>
+            <a href="/index/family"><p>Family Plan</p></a>
+            <a href="/index/index/device"><p>Devices Manager</p></a>
+        </div>
+        <div>
+            <p class="name">Help</p>
+            <a href="/faq"><p>FAQ</p></a>
+            <a href="/index/order"><p>Tickets</p></a>
+            <a href="/privacy_policy"><p>Privacy Policy</p></a>
+        </div>
+    </div>
+    <div class="copyright">
+                <a href="/index/unsubscribe/lang_list"><p class="lang_into"><img src="/static/img/pc/language2.png" width="12">AUTO</p></a>
+        <p>Copyright © 2018-2023 MovieBoxPro All right reserved</p>
+    </div>
+</footer>
+<script type="text/javascript" src="/static/js/jquery-1.7.min.js"></script>
+<script type="text/javascript" src="/static/js/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="/static/js/index.js?rand=jjds9j9384_41"></script>
+        </div>
+        <div class="vip_feature_bg">
+            <p style="position:absolute;top:16px;right:16px;z-index:100;"><img src="/static/img/mobile/fav_close.png" width="16px" class="vip_feature_close"></p>
+            <div class="pinch-zoom">
+                <img src="/static/img//vip_feature.jpg"/>
+            </div>
+        </div>
+        <script type="text/javascript" src="/static/js/pinchzoom.js"></script>
+        <script>
+            var status = 0;
+
+            $(function () {
+                $(".feature").click(function(){
+                    $(".vip_feature_bg").show();
+                    if(status == 0){
+                        new RTP.PinchZoom($('div.pinch-zoom'), {});
+                        status = 1;
+                    }
+                });
+                $(".vip_feature_close").click(function(){
+                    $(".vip_feature_bg").hide();
+                });
+
+
+                // $('div.pinch-zoom').each(function () {
+                //     new RTP.PinchZoom($(this), {});
+                // });
+            })
+        </script>
+	</body>
+</html>
