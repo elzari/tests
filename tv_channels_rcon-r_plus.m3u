@@ -1,0 +1,1029 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PORTADA M+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Movistar_TV.svg/2880px-Movistar_TV.svg.png" group-title="ESPAÑA",PORTADA M+
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/27936
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="LA 1 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="ESPAÑA",LA 1 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/3
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1 HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="ESPAÑA",LA 1 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/4
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1344px-Logo_TVE-1.svg.png" group-title="ESPAÑA",LA 1 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/5
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="ESPAÑA",LA 2 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/6
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 HD 720P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="ESPAÑA",LA 2 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/7
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 SD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="ESPAÑA",LA 2 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/8
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="ESPAÑA",ANTENA 3 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/9
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3 HD 720P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="ESPAÑA",ANTENA 3 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/10
+#EXTINF:-1 tvg-id="antena3.es" tvg-name=" ANTENA 3 SD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/antena3-640x523.png" group-title="ESPAÑA", ANTENA 3 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/11
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO HD 1080P" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="ESPAÑA",CUATRO HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/12
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO HD 720P" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="ESPAÑA",CUATRO HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/13
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO SD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="ESPAÑA",CUATRO SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/14
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="ESPAÑA",TELECINCO HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/15
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO HD 720P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="ESPAÑA",TELECINCO HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/16
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO SD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/tele5-640x523.png" group-title="ESPAÑA",TELECINCO SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/17
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="ESPAÑA",LA SEXTA HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/18
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="ESPAÑA",LA SEXTA HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/19
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="ESPAÑA",LA SEXTA SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/20
+#EXTINF:-1 tvg-id="0.es" tvg-name="#0 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="ESPAÑA",#0 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/21
+#EXTINF:-1 tvg-id="0.es" tvg-name="#0 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="ESPAÑA",#0 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/22
+#EXTINF:-1 tvg-id="0.es" tvg-name="#0 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="ESPAÑA",#0 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/23
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="#VAMOS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="ESPAÑA",#VAMOS HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/24
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="#VAMOS HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="ESPAÑA",#VAMOS HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/25
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="#VAMOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="ESPAÑA",#VAMOS SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/26
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ELLAS #V HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="ESPAÑA",MOVISTAR ELLAS #V HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65137
+#EXTINF:-1 tvg-id="ten.es" tvg-name="TEN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/2880px-Ten.svg.png" group-title="ESPAÑA",TEN SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/27
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="DKISS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/448px-DKiss.svg.png" group-title="ESPAÑA",DKISS SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/28
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" group-title="ESPAÑA",BE MAD HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/29
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" group-title="ESPAÑA",BE MAD HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/30
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1920px-Be_Mad_TV.svg.png" group-title="ESPAÑA",BE MAD SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/31
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ATRESERIES HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" group-title="ESPAÑA",ATRESERIES HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/32
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ATRESERIES HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" group-title="ESPAÑA",ATRESERIES HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/33
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ATRESERIES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1920px-AtreseriesLogo.svg.png" group-title="ESPAÑA",ATRESERIES SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/34
+#EXTINF:-1 tvg-id="" tvg-name="ATRESCINE HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/2880px-Atrescine_logo.svg.png" group-title="ESPAÑA",ATRESCINE HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65237
+#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="ESPAÑA",NEOX HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/35
+#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="ESPAÑA",NEOX HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/36
+#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2880px-Neox.svg.png" group-title="ESPAÑA",NEOX SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/37
+#EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2880px-Nova.svg.png" group-title="ESPAÑA",NOVA HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/38
+#EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2880px-Nova.svg.png" group-title="ESPAÑA",NOVA HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/39
+#EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2880px-Nova.svg.png" group-title="ESPAÑA",NOVA SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/40
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ENERGY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1920px-Energy.svg.png" group-title="ESPAÑA",ENERGY SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/43
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="DIVINITY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1024px-Divinity.svg.png" group-title="ESPAÑA",DIVINITY SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/46
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FDF SD" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/fdf.png" group-title="ESPAÑA",FDF SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/49
+#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2880px-MEGA.svg.png" group-title="ESPAÑA",MEGA HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/50
+#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2880px-MEGA.svg.png" group-title="ESPAÑA",MEGA HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/51
+#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2880px-MEGA.svg.png" group-title="ESPAÑA",MEGA SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/52
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="MOVISTAR SERIES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="ESPAÑA",MOVISTAR SERIES HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/62
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="MOVISTAR SERIES HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="ESPAÑA",MOVISTAR SERIES HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/63
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="MOVISTAR SERIES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="ESPAÑA",MOVISTAR SERIES SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="MOVISTAR SERIES 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="ESPAÑA",MOVISTAR SERIES 2 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/59
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="MOVISTAR SERIES 2 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="ESPAÑA",MOVISTAR SERIES 2 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/60
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="MOVISTAR SERIES 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="ESPAÑA",MOVISTAR SERIES 2 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/61
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA RESISTENCIA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/RESIST.png" group-title="ESPAÑA",MOVISTAR LA RESISTENCIA HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64843
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA RESISTENCIA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/RESIST.png" group-title="ESPAÑA",MOVISTAR LA RESISTENCIA HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64842
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA RESISTENCIA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/RESIST.png" group-title="ESPAÑA",MOVISTAR LA RESISTENCIA SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/52506
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SUPERAGENTES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MUNIDA.png" group-title="ESPAÑA",MOVISTAR SUPERAGENTES HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64838
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR SUPERAGENTES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MUNIDA.png" group-title="ESPAÑA",MOVISTAR SUPERAGENTES SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64844
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="MOVISTAR ACCION HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="ESPAÑA",MOVISTAR ACCION HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/53
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="MOVISTAR ACCION HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="ESPAÑA",MOVISTAR ACCION HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/54
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="MOVISTAR ACCION SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="ESPAÑA",MOVISTAR ACCION SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/55
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="MOVISTAR ESTRENOS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="ESPAÑA",MOVISTAR ESTRENOS HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="MOVISTAR ESTRENOS HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="ESPAÑA",MOVISTAR ESTRENOS HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/66
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="MOVISTAR ESTRENOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="ESPAÑA",MOVISTAR ESTRENOS SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/67
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ESTRENOS 2 HD 1080P" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="ESPAÑA",MOVISTAR ESTRENOS 2 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/49244
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ESTRENOS 2 HD 720P" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="ESPAÑA",MOVISTAR ESTRENOS 2 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/49245
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ESTRENOS 2 SD" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="ESPAÑA",MOVISTAR ESTRENOS 2 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/49246
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CLASICOS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="ESPAÑA",MOVISTAR CLASICOS HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/50502
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CLASICOS HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="ESPAÑA",MOVISTAR CLASICOS HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/50503
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CLASICOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="ESPAÑA",MOVISTAR CLASICOS SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/50504
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="MOVISTAR COMEDIA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="ESPAÑA",MOVISTAR COMEDIA HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/68
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="MOVISTAR COMEDIA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="ESPAÑA",MOVISTAR COMEDIA HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/69
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="MOVISTAR COMEDIA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="ESPAÑA",MOVISTAR COMEDIA SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/70
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="MOVISTAR DRAMA 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="ESPAÑA",MOVISTAR DRAMA 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="MOVISTAR DRAMA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="ESPAÑA",MOVISTAR DRAMA HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/72
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="MOVISTAR DRAMA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="ESPAÑA",MOVISTAR DRAMA SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/73
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CINE Ñ HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="ESPAÑA",MOVISTAR CINE Ñ HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64839
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CINE Ñ HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="ESPAÑA",MOVISTAR CINE Ñ HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71030
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="MOVISTAR CINE Ñ SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="ESPAÑA",MOVISTAR CINE Ñ SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/75
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR FEST HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" group-title="ESPAÑA",MOVISTAR FEST HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/47135
+#EXTINF:-1 tvg-id="" tvg-name="SELEKT HD 1080P" tvg-logo="https://i.ibb.co/vY2kfrN/554705600-171489689-1706x960-Photo-Room-png-Photo-Room.png" group-title="ESPAÑA",SELEKT HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71059
+#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="ESPAÑA",FOX HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/81
+#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="ESPAÑA",FOX HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/82
+#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="ESPAÑA",FOX SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/83
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="ESPAÑA",AXN HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/87
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN HD 720P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="ESPAÑA",AXN HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/88
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN SD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="ESPAÑA",AXN SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/89
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN MOVIES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="ESPAÑA",AXN MOVIES HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/90
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN MOVIES HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="ESPAÑA",AXN MOVIES HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/91
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN MOVIES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="ESPAÑA",AXN MOVIES SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/92
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="WARNER TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="ESPAÑA",WARNER TV HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/93
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="WARNER TV HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="ESPAÑA",WARNER TV HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/94
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="WARNER TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="ESPAÑA",WARNER TV SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/95
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="ESPAÑA",COMEDY CENTRAL HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/96
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="ESPAÑA",COMEDY CENTRAL HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/97
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="ESPAÑA",COMEDY CENTRAL SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/98
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="ESPAÑA",CALLE 13 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/99
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="ESPAÑA",CALLE 13 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/100
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="ESPAÑA",CALLE 13 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/101
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="ESPAÑA",COSMO HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/102
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="ESPAÑA",COSMO HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/103
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="ESPAÑA",COSMO SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/104
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="ESPAÑA",AMC HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/105
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="ESPAÑA",AMC HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/106
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="ESPAÑA",AMC SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/107
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="ESPAÑA",DREAMWORKS HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/37446
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS HD 720P  " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="ESPAÑA",DREAMWORKS HD 720P  
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/37447
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="ESPAÑA",DREAMWORKS SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/37448
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="ESPAÑA",SYFY HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/108
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="ESPAÑA",SYFY HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/109
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="ESPAÑA",SYFY SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/110
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="ESPAÑA",TCM HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/111
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="ESPAÑA",TCM HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/112
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="ESPAÑA",TCM SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/113
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="ESPAÑA",PARAMOUNT CHANNEL SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/114
+#EXTINF:-1 tvg-id="" tvg-name="BOM CINE HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/2560px-Logo-bom.svg.png" group-title="ESPAÑA",BOM CINE HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64845
+#EXTINF:-1 tvg-id="" tvg-name="BOM CINE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/2560px-Logo-bom.svg.png" group-title="ESPAÑA",BOM CINE SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/115
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="ESPAÑA",SOMOS HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/116
+#EXTINF:-1 tvg-id="extremeteuve.es" tvg-name="XTRM HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="ESPAÑA",XTRM HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/117
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="ESPAÑA",SUNDANCE HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/118
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="ESPAÑA",SUNDANCE SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/119
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="ESPAÑA",HOLLYWOOD HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/120
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="ESPAÑA",HOLLYWOOD HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/121
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="ESPAÑA",HOLLYWOOD SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/122
+#EXTINF:-1 tvg-id="dark.es" tvg-name="DARK RED HD 1080P" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/dark.png" group-title="ESPAÑA",DARK RED HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/123
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="ESPAÑA",ALQUILER 1 HD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/124
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="ESPAÑA",ALQUILER 2 HD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/125
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="ESPAÑA",ALQUILER 3 HD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/126
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="ESPAÑA",ALQUILER 4 HD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/127
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 5 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="ESPAÑA",ALQUILER 5 HD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/128
+#EXTINF:-1 tvg-id="" tvg-name="MTV ESPAÑA HD 1080P " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/400px-MTV_Logo.svg.png" group-title="ESPAÑA",MTV ESPAÑA HD 1080P 
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65283
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="MTV ESPAÑA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/400px-MTV_Logo.svg.png" group-title="ESPAÑA",MTV ESPAÑA SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/129
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NATIONAL GEOGRAPHIC HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="ESPAÑA",NATIONAL GEOGRAPHIC HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/130
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NATIONAL GEOGRAPHIC HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="ESPAÑA",NATIONAL GEOGRAPHIC HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/131
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="ESPAÑA",NATIONAL GEOGRAPHIC SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/132
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="ESPAÑA",NAT GEO WILD HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/133
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="ESPAÑA",NAT GEO WILD HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/134
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="ESPAÑA",NAT GEO WILD SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/135
+#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="ESPAÑA",HISTORIA HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/136
+#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="ESPAÑA",HISTORIA HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/137
+#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="ESPAÑA",HISTORIA SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/138
+#EXTINF:-1 tvg-id="" tvg-name="NEGOCIOS TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEGOTV.png" group-title="ESPAÑA",NEGOCIOS TV SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64841
+#EXTINF:-1 tvg-id="discoverymax.es" tvg-name="DMAX SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="ESPAÑA",DMAX SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/139
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="ESPAÑA",DISCOVERY CHANNEL HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/140
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="ESPAÑA",DISCOVERY CHANNEL SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/141
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA UHD 4K" tvg-logo="https://i.ibb.co/nBj9dCC/a1cf0c24983149fca35af0f6e0e8e9a8-288-X162-removebg-preview.png" group-title="ESPAÑA",ODISEA UHD 4K
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/27938
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ODISEA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="ESPAÑA",ODISEA HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/143
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ODISEA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="ESPAÑA",ODISEA SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/144
+#EXTINF:-1 tvg-id="" tvg-name="HORSE TV HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HORSE.png" group-title="ESPAÑA",HORSE TV HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65151
+#EXTINF:-1 tvg-id="" tvg-name="HORSE TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HORSE.png" group-title="ESPAÑA",HORSE TV SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64840
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZA Y PESCA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" group-title="ESPAÑA",CAZA Y PESCA HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/145
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZA Y PESCA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" group-title="ESPAÑA",CAZA Y PESCA HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/146
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZA Y PESCA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" group-title="ESPAÑA",CAZA Y PESCA SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/147
+#EXTINF:-1 tvg-id="" tvg-name="CAZAVISIÓN HD 1080P" tvg-logo="https://i.ibb.co/f8vddXR/280x75-carousel-cazavision.png" group-title="ESPAÑA",CAZAVISIÓN HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/57729
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV HD 1080P " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/IBERAL.png" group-title="ESPAÑA",IBERALIA TV HD 1080P 
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65282
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="IBERALIA TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/IBERAL.png" group-title="ESPAÑA",IBERALIA TV SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/149
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% CAZA HD 1080P" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="ESPAÑA",IBERALIA 100% CAZA HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64264
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% PESCA HD 1080P" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="ESPAÑA",IBERALIA 100% PESCA HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64263
+#EXTINF:-1 tvg-id="" tvg-name="NAUTICAL CHANNEL HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NAUTIC.png" group-title="ESPAÑA",NAUTICAL CHANNEL HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65156
+#EXTINF:-1 tvg-id="" tvg-name="NAUTICAL CHANNEL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NAUTIC.png" group-title="ESPAÑA",NAUTICAL CHANNEL SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64836
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR TOROS HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Toros-movistar.png" group-title="ESPAÑA",MOVISTAR TOROS HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71065
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR TOROS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Toros-movistar.png" group-title="ESPAÑA",MOVISTAR TOROS SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71066
+#EXTINF:-1 tvg-id="toros.es" tvg-name="MUNDOTORO TV HD 1080P" tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png" group-title="ESPAÑA",MUNDOTORO TV HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/150
+#EXTINF:-1 tvg-id="toros.es" tvg-name="MUNDOTORO TV HD 720P" tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png" group-title="ESPAÑA",MUNDOTORO TV HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/151
+#EXTINF:-1 tvg-id="toros.es" tvg-name="MUNDOTORO TV SD" tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png" group-title="ESPAÑA",MUNDOTORO TV SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/152
+#EXTINF:-1 tvg-id="" tvg-name="TOROLE HD 1080P" tvg-logo="https://api.myclub.tv//images/5727.png" group-title="ESPAÑA",TOROLE HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71290
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="BREAK HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="ESPAÑA",BREAK HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/153
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="BREAK SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="ESPAÑA",BREAK SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/154
+#EXTINF:-1 tvg-id="" tvg-name="CRIME HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="ESPAÑA",CRIME HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/35790
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="CRIME SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="ESPAÑA",CRIME SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/158
+#EXTINF:-1 tvg-id="" tvg-name="BUENVIAJE HD 1080P" tvg-logo="https://www.vodafone.es/c/microsite/1500140973727/img/canales/card/buen-viaje.png?v=1f8cec7b59d970a4d6fd63089fbf777f" group-title="ESPAÑA",BUENVIAJE HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71067
+#EXTINF:-1 tvg-id="" tvg-name="BUENVIAJE HD 720P" tvg-logo="https://www.vodafone.es/c/microsite/1500140973727/img/canales/card/buen-viaje.png?v=1f8cec7b59d970a4d6fd63089fbf777f" group-title="ESPAÑA",BUENVIAJE HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71068
+#EXTINF:-1 tvg-id="" tvg-name="BUENVIAJE SD" tvg-logo="https://www.vodafone.es/c/microsite/1500140973727/img/canales/card/buen-viaje.png?v=1f8cec7b59d970a4d6fd63089fbf777f" group-title="ESPAÑA",BUENVIAJE SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71069
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA UHD 4K" tvg-logo="https://www.neeo.es/wp-content/uploads/2016/05/canal-cocina-4K.png" group-title="ESPAÑA",CANAL COCINA UHD 4K
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65153
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA HD 1080P" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png" group-title="ESPAÑA",CANAL COCINA HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/161
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA SD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51USEW2haIL.png" group-title="ESPAÑA",CANAL COCINA SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/162
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA UHD 4K" tvg-logo="https://www.neeo.es/wp-content/uploads/2016/05/decasa-4K.png" group-title="ESPAÑA",CANAL DECASA UHD 4K
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65154
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="ESPAÑA",CANAL DECASA HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/163
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="ESPAÑA",CANAL DECASA SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/164
+#EXTINF:-1 tvg-id="" tvg-name="24H TVE HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="ESPAÑA",24H TVE HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/14264
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="24H TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="ESPAÑA",24H TVE
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/165
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="ESPAÑA",EL TORO TV HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/14265
+#EXTINF:-1 tvg-id="" tvg-name="TRECE tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/2880px-Trece.svg.png" group-title="ESPAÑA",TRECE tv
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/14266
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="ESPAÑA",CLAN TVE HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/166
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN TVE HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="ESPAÑA",CLAN TVE HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/167
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="ESPAÑA",CLAN TVE SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/168
+#EXTINF:-1 tvg-id="" tvg-name="BOING SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" group-title="ESPAÑA",BOING SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/170
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" group-title="ESPAÑA",BABY TV SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/171
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" group-title="ESPAÑA",DISNEY JR HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65220
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" group-title="ESPAÑA",DISNEY JR HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64846
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" group-title="ESPAÑA",DISNEY JUNIOR SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/172
+#EXTINF:-1 tvg-id="" tvg-name="ENFAMILIA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="ESPAÑA",ENFAMILIA HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/173
+#EXTINF:-1 tvg-id="" tvg-name="ENFAMILIA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="ESPAÑA",ENFAMILIA HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64847
+#EXTINF:-1 tvg-id="" tvg-name="ENFAMILIA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="ESPAÑA",ENFAMILIA SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/174
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" group-title="ESPAÑA",NICK JR HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65221
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" group-title="ESPAÑA",NICK JR HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64848
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" group-title="ESPAÑA",NICK JR SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/175
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" group-title="ESPAÑA",NICKELODEON HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/176
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" group-title="ESPAÑA",NICKELODEON HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64849
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2880px-Nickelodeon_2009_logo.svg.png" group-title="ESPAÑA",NICKELODEON SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/177
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="ESPAÑA",DISNEY CHANNEL HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/178
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="ESPAÑA",DISNEY CHANNEL HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/179
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="ESPAÑA",DISNEY CHANNEL SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/180
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA UHD 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="ESPAÑA",MOVISTAR LA LIGA UHD 4K
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/42184
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA HD 1080P (H.265)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",MOVISTAR LA LIGA HD 1080P (H.265)
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/43853
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",MOVISTAR LA LIGA HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/182
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA HD 1080P B" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",MOVISTAR LA LIGA HD 1080P B
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/183
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-name="MOVISTAR LA LIGA HD 1080P (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",MOVISTAR LA LIGA HD 1080P (FIBRA)
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/21861
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA HD 1080P (ORANGE) " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",MOVISTAR LA LIGA HD 1080P (ORANGE) 
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/27941
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA HD 1080P (FIBRA 3)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",MOVISTAR LA LIGA HD 1080P (FIBRA 3)
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65486
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",MOVISTAR LA LIGA HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/184
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",MOVISTAR LA LIGA SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/185
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA UHD 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA",DAZN LA LIGA UHD 4K
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71465
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD 1080P (H.265)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA",DAZN LA LIGA HD 1080P (H.265)
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65491
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA",DAZN LA LIGA HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65475
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD 1080P (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA",DAZN LA LIGA HD 1080P (FIBRA)
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71060
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA",DAZN LA LIGA HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65489
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA",DAZN LA LIGA SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65490
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA SMARTBANK TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="ESPAÑA",LA LIGA SMARTBANK TV HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65481
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA SMARTBANK TV HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="ESPAÑA",LA LIGA SMARTBANK TV HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65495
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA SMARTBANK TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="ESPAÑA",LA LIGA SMARTBANK TV SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65496
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD 1080P" tvg-logo="https://laligatvbar.es/meta-image.jpg" group-title="ESPAÑA",LA LIGA TV BAR HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/186
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD 720P" tvg-logo="https://laligatvbar.es/meta-image.jpg" group-title="ESPAÑA",LA LIGA TV BAR HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/187
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR SD" tvg-logo="https://laligatvbar.es/meta-image.jpg" group-title="ESPAÑA",LA LIGA TV BAR SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/52507
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES UHD 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAUHD.png" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES UHD 4K
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/66218
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P (H.265)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES HD 1080P (H.265)
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/43852
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/189
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P B" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES HD 1080P B
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/190
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES HD 1080P (FIBRA)
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/22474
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P (ORANGE)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES HD 1080P (ORANGE)
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/42182
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P (FIBRA 3)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES HD 1080P (FIBRA 3)
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65136
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/191
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ESPAÑA",MOVISTAR LIGA DE CAMPEONES SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/192
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="ESPAÑA",GOL TV HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/193
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="ESPAÑA",GOL TV SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/194
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ESPAÑA",MOVISTAR DEPORTES HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/202
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ESPAÑA",MOVISTAR DEPORTES HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/203
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="ESPAÑA",MOVISTAR DEPORTES SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/204
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 UHD 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MF1UHD.png" group-title="ESPAÑA",DAZN F1 UHD 4K
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/10372
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD 1080P (H.265)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="ESPAÑA",DAZN F1 HD 1080P (H.265)
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71464
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="ESPAÑA",DAZN F1 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/205
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="ESPAÑA",DAZN F1 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/206
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="ESPAÑA",DAZN F1 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/207
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="ESPAÑA",MOVISTAR GOLF HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/208
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="ESPAÑA",MOVISTAR GOLF HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/209
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="ESPAÑA",MOVISTAR GOLF SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/210
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="ESPAÑA",MOVISTAR GOLF 2 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71062
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF 2 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="ESPAÑA",MOVISTAR GOLF 2 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71063
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR GOLF 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="ESPAÑA",MOVISTAR GOLF 2 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71064
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 1 HD 1080P" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="ESPAÑA",MOVISTAR DAZN 1 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/25940
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 1 HD 720P" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="ESPAÑA",MOVISTAR DAZN 1 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71034
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 1 SD  " tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="ESPAÑA",MOVISTAR DAZN 1 SD  
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65310
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 2 HD 1080P" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="ESPAÑA",MOVISTAR DAZN 2 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/25941
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 2 HD 720P" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="ESPAÑA",MOVISTAR DAZN 2 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71035
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 2 SD  " tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="ESPAÑA",MOVISTAR DAZN 2 SD  
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65309
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 3 HD 1080P  " tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="ESPAÑA",MOVISTAR DAZN 3 HD 1080P  
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/37452
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 3 HD 720P" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="ESPAÑA",MOVISTAR DAZN 3 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71036
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 3 SD  " tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="ESPAÑA",MOVISTAR DAZN 3 SD  
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65308
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 4 HD 1080P  " tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="ESPAÑA",MOVISTAR DAZN 4 HD 1080P  
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/37453
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 4 HD 720P" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="ESPAÑA",MOVISTAR DAZN 4 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71037
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DAZN 4 SD" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="ESPAÑA",MOVISTAR DAZN 4 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65307
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="ESPAÑA",EUROSPORT 1 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/211
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="ESPAÑA",EUROSPORT 1 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71032
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="ESPAÑA",EUROSPORT 1 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/212
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="ESPAÑA",EUROSPORT 2 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/213
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="ESPAÑA",EUROSPORT 2 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71033
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="ESPAÑA",EUROSPORT 2 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/214
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="ESPAÑA",TELEDEPORTE HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/215
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="ESPAÑA",TELEDEPORTE HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71031
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="ESPAÑA",TELEDEPORTE SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/216
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="ESPAÑA",REAL MADRID TV HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/218
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="ESPAÑA",REAL MADRID TV SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/11323
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="ESPAÑA",BARCA TV HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/219
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="ESPAÑA",BARCA TV SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/220
+#EXTINF:-1 tvg-id="" tvg-name="SEVILLA CF TV SD" tvg-logo="https://sevillafc.es/sites/default/files/news/image/sfctv.jpg" group-title="ESPAÑA",SEVILLA CF TV SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65469
+#EXTINF:-1 tvg-id="" tvg-name="BETIS CF TV HD 720P" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOpdCgAo5e00wPaieokIcLCWQAaFAl2RO5YVkqwoMc7frVdzXoaHPXi03m4FG6DYZDbR4&usqp=CAU" group-title="ESPAÑA",BETIS CF TV HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65468
+#EXTINF:-1 tvg-id="" tvg-name="U-BEAT HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/U-Beat.svg/1600px-U-Beat.svg.png" group-title="ESPAÑA",U-BEAT HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/224
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE" tvg-logo="http://meteoalcorcon.es/1_0_1_76A3_41E_1_C00000_0_0_0.png" group-title="MULTIDEPORTES",MULTIDEPORTE
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/10286
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 2 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/229
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 2 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/231
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 3 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 3 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/22475
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 3 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/232
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 4 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 4 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/22476
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 4 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 4 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/233
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 5 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 5 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/234
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 6 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 6 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/235
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 7 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 7 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/236
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 8 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 8 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/237
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 9 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 9 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/56362
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 10 SD  " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP9.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 10 SD  
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/56363
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 11 SD  " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP10.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 11 SD  
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/56364
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 12 SD  " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 12 SD  
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/56365
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 13 SD  " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP12.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 13 SD  
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65870
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 14 SD  " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP13.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 14 SD  
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65871
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 15 SD  " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP14.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 15 SD  
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65872
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 16 SD  " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP15.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 16 SD  
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65873
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 17 SD  " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP16.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 17 SD  
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65874
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartbankTV M2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="MULTIDEPORTES",LaLiga SmartbankTV M2 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65488
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartbankTV M2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="MULTIDEPORTES",LaLiga SmartbankTV M2 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65497
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartbankTV M3 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="MULTIDEPORTES",LaLiga SmartbankTV M3 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/66220
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartbankTV M3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="MULTIDEPORTES",LaLiga SmartbankTV M3 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/66221
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartbankTV M4 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS4.png" group-title="MULTIDEPORTES",LaLiga SmartbankTV M4 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71472
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartbankTV M5 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS5.png" group-title="MULTIDEPORTES",LaLiga SmartbankTV M5 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71473
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartbankTV M6 HD 1080P" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_SMARTBANK_TV_M6_176x122.png" group-title="MULTIDEPORTES",LaLiga SmartbankTV M6 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71474
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartbankTV M7 HD 1080P" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_SMARTBANK_TV_M7_176x122.png" group-title="MULTIDEPORTES",LaLiga SmartbankTV M7 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71475
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartbankTV M8 HD 1080P" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_SMARTBANK_TV_M8_176x122.png" group-title="MULTIDEPORTES",LaLiga SmartbankTV M8 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71476
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 HD 1080P  " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="MULTIDEPORTES",DAZN LA LIGA 2 HD 1080P  
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65476
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="MULTIDEPORTES",DAZN LA LIGA 2 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65499
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 2 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/238
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 2 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/239
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 3 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 3 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/240
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 3 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/241
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 4 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 4 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/242
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 4 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 4 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/243
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 5 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG4.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 5 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64854
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 5 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG4.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 5 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/244
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 6 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG5.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 6 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/245
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 7 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG6.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 7 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/246
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 8 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG7.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 8 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/247
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 9 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG8.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 9 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/248
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 10 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG9.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 10 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/249
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 11 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG10.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 11 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/250
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 2 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64918
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 2 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/253
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 3 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 3 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64919
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 3 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/254
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 4 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 4 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65218
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 4 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 4 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/255
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 5 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 5 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65219
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 5 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 5 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/256
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 6 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 6 HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71024
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 6 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 6 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/257
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 7 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 7 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/258
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="AUTONÓMICOS",Canal Sur Andalucía
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/260
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sur 2 Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="AUTONÓMICOS",Canal Sur 2 Andalucía
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/262
+#EXTINF:-1 tvg-id="" tvg-name="101TV Málaga" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="AUTONÓMICOS",101TV Málaga
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/264
+#EXTINF:-1 tvg-id="" tvg-name="El Correo de Andalucía" tvg-logo="https://graph.facebook.com/elcorreoweb/picture?width=200&height=200" group-title="AUTONÓMICOS",El Correo de Andalucía
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/265
+#EXTINF:-1 tvg-id="" tvg-name="Onda Cádiz" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="AUTONÓMICOS",Onda Cádiz
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/266
+#EXTINF:-1 tvg-id="" tvg-name="Mijas 3.40 TV" tvg-logo="https://graph.facebook.com/Mijas340/picture?width=200&height=200" group-title="AUTONÓMICOS",Mijas 3.40 TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/267
+#EXTINF:-1 tvg-id="" tvg-name="Córdoba TV" tvg-logo="https://graph.facebook.com/cordobatvonline/picture?width=200&height=200" group-title="AUTONÓMICOS",Córdoba TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/269
+#EXTINF:-1 tvg-id="" tvg-name="PTV Málaga" tvg-logo="https://graph.facebook.com/PTV.Malaga/picture?width=200&height=200" group-title="AUTONÓMICOS",PTV Málaga
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/270
+#EXTINF:-1 tvg-id="" tvg-name="M95 Marbella" tvg-logo="https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200" group-title="AUTONÓMICOS",M95 Marbella
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/271
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sierra de Cádiz HD" tvg-logo="https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200" group-title="AUTONÓMICOS",Canal Sierra de Cádiz HD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/272
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sierra de Cádiz HD" tvg-logo="https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200" group-title="AUTONÓMICOS",Canal Sierra de Cádiz HD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/273
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sierra de Cádiz SD" tvg-logo="https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200" group-title="AUTONÓMICOS",Canal Sierra de Cádiz SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/274
+#EXTINF:-1 tvg-id="" tvg-name="Costa Noroeste TV" tvg-logo="https://graph.facebook.com/Costanoroestetv/picture?width=200&height=200" group-title="AUTONÓMICOS",Costa Noroeste TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/275
+#EXTINF:-1 tvg-id="" tvg-name="Condavisión" tvg-logo="https://graph.facebook.com/condavision/picture?width=200&height=200" group-title="AUTONÓMICOS",Condavisión
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/276
+#EXTINF:-1 tvg-id="" tvg-name="Teleonuba" tvg-logo="https://graph.facebook.com/Teleonuba/picture?width=200&height=200" group-title="AUTONÓMICOS",Teleonuba
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/277
+#EXTINF:-1 tvg-id="" tvg-name="CanalCosta" tvg-logo="https://graph.facebook.com/canalcosta/picture?width=200&height=200" group-title="AUTONÓMICOS",CanalCosta
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/278
+#EXTINF:-1 tvg-id="" tvg-name="Interalmería TV" tvg-logo="https://graph.facebook.com/Interalmeriatv/picture?width=200&height=200" group-title="AUTONÓMICOS",Interalmería TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/279
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro Andalucía" tvg-logo="https://graph.facebook.com/TVCentroAndalucia/picture?width=200&height=200" group-title="AUTONÓMICOS",TV Centro Andalucía
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/280
+#EXTINF:-1 tvg-id="" tvg-name="Lebrija TV" tvg-logo="https://graph.facebook.com/lebrijatelevision/picture?width=200&height=200" group-title="AUTONÓMICOS",Lebrija TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/281
+#EXTINF:-1 tvg-id="" tvg-name="8 La Janda" tvg-logo="https://graph.facebook.com/8lajanda/picture?width=200&height=200" group-title="AUTONÓMICOS",8 La Janda
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/283
+#EXTINF:-1 tvg-id="" tvg-name="Onda Algeciras TV" tvg-logo="https://graph.facebook.com/ondaalgecirastv/picture?width=200&height=200" group-title="AUTONÓMICOS",Onda Algeciras TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/285
+#EXTINF:-1 tvg-id="" tvg-name="Estepona TV" tvg-logo="https://graph.facebook.com/esteponatelevision/picture?width=200&height=200" group-title="AUTONÓMICOS",Estepona TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/286
+#EXTINF:-1 tvg-id="" tvg-name="OndaMezquita TV" tvg-logo="https://graph.facebook.com/OndaMezquitaTV/picture?width=200&height=200" group-title="AUTONÓMICOS",OndaMezquita TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/287
+#EXTINF:-1 tvg-id="" tvg-name="Canal Doñana" tvg-logo="https://graph.facebook.com/donanacomunica/picture?width=200&height=200" group-title="AUTONÓMICOS",Canal Doñana
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/288
+#EXTINF:-1 tvg-id="" tvg-name="Torrevisión" tvg-logo="https://graph.facebook.com/torremolinostv/picture?width=200&height=200" group-title="AUTONÓMICOS",Torrevisión
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/290
+#EXTINF:-1 tvg-id="" tvg-name="Diez TV" tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200" group-title="AUTONÓMICOS",Diez TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/291
+#EXTINF:-1 tvg-id="" tvg-name="Marbella TV" tvg-logo="https://graph.facebook.com/RTVMarbella/picture?width=200&height=200" group-title="AUTONÓMICOS",Marbella TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/292
+#EXTINF:-1 tvg-id="" tvg-name="Cadena Elite Granada" tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="AUTONÓMICOS",Cadena Elite Granada
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/293
+#EXTINF:-1 tvg-id="" tvg-name="Montilla Televisión" tvg-logo="https://graph.facebook.com/MontillaTV/picture?width=200&height=200" group-title="AUTONÓMICOS",Montilla Televisión
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/294
+#EXTINF:-1 tvg-id="" tvg-name="9 la Loma TV" tvg-logo="https://graph.facebook.com/9laloma/picture?width=200&height=200" group-title="AUTONÓMICOS",9 la Loma TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/295
+#EXTINF:-1 tvg-id="" tvg-name="CostadelSol TV" tvg-logo="https://graph.facebook.com/costadelsoltv/picture?width=200&height=200" group-title="AUTONÓMICOS",CostadelSol TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/296
+#EXTINF:-1 tvg-id="" tvg-name="PTV Córdoba" tvg-logo="https://graph.facebook.com/PTVCord/picture?width=200&height=200" group-title="AUTONÓMICOS",PTV Córdoba
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/297
+#EXTINF:-1 tvg-id="" tvg-name="SalTV" tvg-logo="https://pbs.twimg.com/profile_images/1272169218151243777/QKzM3jFm_200x200.jpg" group-title="AUTONÓMICOS",SalTV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/298
+#EXTINF:-1 tvg-id="" tvg-name="Canal Málaga" tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200" group-title="AUTONÓMICOS",Canal Málaga
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/299
+#EXTINF:-1 tvg-id="" tvg-name="101TV Antequera" tvg-logo="https://graph.facebook.com/812891658754713/picture?width=200&height=200" group-title="AUTONÓMICOS",101TV Antequera
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/300
+#EXTINF:-1 tvg-id="" tvg-name="TVM Córdoba" tvg-logo="https://graph.facebook.com/TVM.Cordoba/picture?width=200&height=200" group-title="AUTONÓMICOS",TVM Córdoba
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/302
+#EXTINF:-1 tvg-id="" tvg-name="Tele Gilena" tvg-logo="https://pbs.twimg.com/profile_images/1249354233813622784/AstccGAT_200x200.jpg" group-title="AUTONÓMICOS",Tele Gilena
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/303
+#EXTINF:-1 tvg-id="" tvg-name="Cancionero TV" tvg-logo="https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png" group-title="AUTONÓMICOS",Cancionero TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/304
+#EXTINF:-1 tvg-id="" tvg-name="Canal Coín" tvg-logo="https://yt3.ggpht.com/a/AATXAJxBOpg8wglxv7mUxdPlwj-GnYRCUMtdLpQcNw=s200-c-k-c0xffffffff-no-rj-mo" group-title="AUTONÓMICOS",Canal Coín
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/305
+#EXTINF:-1 tvg-id="" tvg-name="Trebujena TV" tvg-logo="https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg" group-title="AUTONÓMICOS",Trebujena TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/306
+#EXTINF:-1 tvg-id="" tvg-name="Aragón TV" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200" group-title="AUTONÓMICOS",Aragón TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/307
+#EXTINF:-1 tvg-id="" tvg-name="Huesca TV" tvg-logo="https://graph.facebook.com/Radiohuesca/picture?width=200&height=200" group-title="AUTONÓMICOS",Huesca TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/309
+#EXTINF:-1 tvg-id="" tvg-name="La Tele TV" tvg-logo="https://graph.facebook.com/LaTeleTVAragon/picture?width=200&height=200" group-title="AUTONÓMICOS",La Tele TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/310
+#EXTINF:-1 tvg-id="" tvg-name="Canal 25 Barbastro TV" tvg-logo="https://graph.facebook.com/tvbarbastro/picture?width=200&height=200" group-title="AUTONÓMICOS",Canal 25 Barbastro TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/311
+#EXTINF:-1 tvg-id="" tvg-name="Telemadrid" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="AUTONÓMICOS",Telemadrid
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/312
+#EXTINF:-1 tvg-id="" tvg-name="Webcam OndaMadrid" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200" group-title="AUTONÓMICOS",Webcam OndaMadrid
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/314
+#EXTINF:-1 tvg-id="" tvg-name="Webcam OndaMadrid" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200" group-title="AUTONÓMICOS",Webcam OndaMadrid
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/315
+#EXTINF:-1 tvg-id="" tvg-name="C33 Madrid" tvg-logo="https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200" group-title="AUTONÓMICOS",C33 Madrid
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/317
+#EXTINF:-1 tvg-id="" tvg-name="Solidaria TV" tvg-logo="https://graph.facebook.com/solidariatv/picture?width=200&height=200" group-title="AUTONÓMICOS",Solidaria TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/322
+#EXTINF:-1 tvg-id="" tvg-name="Navarra TV" tvg-logo="https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200" group-title="AUTONÓMICOS",Navarra TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/324
+#EXTINF:-1 tvg-id="" tvg-name="TeleRibera" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg" group-title="AUTONÓMICOS",TeleRibera
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/327
+#EXTINF:-1 tvg-id="" tvg-name="À Punt" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="AUTONÓMICOS",À Punt
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/328
+#EXTINF:-1 tvg-id="" tvg-name="Intercomarcal TV" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="AUTONÓMICOS",Intercomarcal TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/330
+#EXTINF:-1 tvg-id="" tvg-name="Intercomarcal TV" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="AUTONÓMICOS",Intercomarcal TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/331
+#EXTINF:-1 tvg-id="" tvg-name="Grup Televisió" tvg-logo="https://graph.facebook.com/grup.televisio/picture?width=200&height=200" group-title="AUTONÓMICOS",Grup Televisió
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/332
+#EXTINF:-1 tvg-id="" tvg-name="Pequeradio TV" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="AUTONÓMICOS",Pequeradio TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/334
+#EXTINF:-1 tvg-id="" tvg-name="Alicantí TV" tvg-logo="https://graph.facebook.com/alacantitv/picture?width=200&height=200" group-title="AUTONÓMICOS",Alicantí TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/335
+#EXTINF:-1 tvg-id="" tvg-name="Levante TV" tvg-logo="https://graph.facebook.com/levantetv/picture?width=200&height=200" group-title="AUTONÓMICOS",Levante TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/336
+#EXTINF:-1 tvg-id="" tvg-name="tvA" tvg-logo="https://graph.facebook.com/tvArtequatre/picture?width=200&height=200" group-title="AUTONÓMICOS",tvA
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/337
+#EXTINF:-1 tvg-id="" tvg-name="Televisión de San Vicente" tvg-logo="https://graph.facebook.com/televisiondesanvicente/picture?width=200&height=200" group-title="AUTONÓMICOS",Televisión de San Vicente
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/339
+#EXTINF:-1 tvg-id="" tvg-name="telesafor" tvg-logo="https://graph.facebook.com/Tele7Safor/picture?width=200&height=200" group-title="AUTONÓMICOS",telesafor
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/342
+#EXTINF:-1 tvg-id="" tvg-name="TV Vega Baja" tvg-logo="https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200" group-title="AUTONÓMICOS",TV Vega Baja
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/343
+#EXTINF:-1 tvg-id="" tvg-name="Univers TV" tvg-logo="https://graph.facebook.com/UniversValenciaMedia/picture?width=200&height=200" group-title="AUTONÓMICOS",Univers TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/346
+#EXTINF:-1 tvg-id="" tvg-name="Onda 15 TV" tvg-logo="https://graph.facebook.com/Onda15Radio/picture?width=200&height=200" group-title="AUTONÓMICOS",Onda 15 TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/348
+#EXTINF:-1 tvg-id="" tvg-name="Intereconomía Valencia TV" tvg-logo="https://graph.facebook.com/radiointereconomiavalencia1071/picture?width=200&height=200" group-title="AUTONÓMICOS",Intereconomía Valencia TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/349
+#EXTINF:-1 tvg-id="" tvg-name="Onda Valencia" tvg-logo="https://graph.facebook.com/ondavalenciatv/picture?width=200&height=200" group-title="AUTONÓMICOS",Onda Valencia
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/350
+#EXTINF:-1 tvg-id="" tvg-name="Punt 3 Vall Uixó" tvg-logo="https://graph.facebook.com/Punt3Television/picture?width=200&height=200" group-title="AUTONÓMICOS",Punt 3 Vall Uixó
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/351
+#EXTINF:-1 tvg-id="" tvg-name="Une Vinalopó" tvg-logo="https://graph.facebook.com/UneVinalopo/picture?width=200&height=200" group-title="AUTONÓMICOS",Une Vinalopó
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/352
+#EXTINF:-1 tvg-id="" tvg-name="Corts Valencianes" tvg-logo="https://graph.facebook.com/cortsval/picture?width=200&height=200" group-title="AUTONÓMICOS",Corts Valencianes
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/354
+#EXTINF:-1 tvg-id="" tvg-name="Canal Extremadura" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="AUTONÓMICOS",Canal Extremadura
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/355
+#EXTINF:-1 tvg-id="" tvg-name="Mírame TV" tvg-logo="https://graph.facebook.com/MirameTVCanarias/picture?width=200&height=200" group-title="AUTONÓMICOS",Mírame TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/357
+#EXTINF:-1 tvg-id="" tvg-name="Canarias TV" tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="AUTONÓMICOS",Canarias TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/360
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Tenerife" tvg-logo="https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200" group-title="AUTONÓMICOS",Canal 4 Tenerife
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/361
+#EXTINF:-1 tvg-id="" tvg-name="Noroeste Televisión" tvg-logo="https://graph.facebook.com/noroestetelevision/picture?width=200&height=200" group-title="AUTONÓMICOS",Noroeste Televisión
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/363
+#EXTINF:-1 tvg-id="" tvg-name="NORTEvisión" tvg-logo="https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200" group-title="AUTONÓMICOS",NORTEvisión
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/364
+#EXTINF:-1 tvg-id="" tvg-name="RTV Mogán" tvg-logo="https://graph.facebook.com/radiotelevisionmogan/picture?width=200&height=200" group-title="AUTONÓMICOS",RTV Mogán
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/365
+#EXTINF:-1 tvg-id="" tvg-name="Radio Gigante" tvg-logo="https://graph.facebook.com/741011612731578/picture?width=200&height=200" group-title="AUTONÓMICOS",Radio Gigante
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/368
+#EXTINF:-1 tvg-id="" tvg-name="Lancelot TV" tvg-logo="https://graph.facebook.com/288850935035196/picture?width=200&height=200" group-title="AUTONÓMICOS",Lancelot TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/370
+#EXTINF:-1 tvg-id="" tvg-name="Lancelot TV" tvg-logo="https://graph.facebook.com/288850935035196/picture?width=200&height=200" group-title="AUTONÓMICOS",Lancelot TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/371
+#EXTINF:-1 tvg-id="" tvg-name="Popular TV Cantabria" tvg-logo="https://graph.facebook.com/populartvcantabria/picture?width=200&height=200" group-title="AUTONÓMICOS",Popular TV Cantabria
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/372
+#EXTINF:-1 tvg-id="" tvg-name="CMM" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="AUTONÓMICOS",CMM
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/373
+#EXTINF:-1 tvg-id="" tvg-name="TV Hellín" tvg-logo="https://graph.facebook.com/tvhellin/picture?width=200&height=200" group-title="AUTONÓMICOS",TV Hellín
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/374
+#EXTINF:-1 tvg-id="" tvg-name="Guada TV" tvg-logo="https://graph.facebook.com/GuadaTV.TV/picture?width=200&height=200" group-title="AUTONÓMICOS",Guada TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/375
+#EXTINF:-1 tvg-id="" tvg-name="Visión 6 TV" tvg-logo="https://graph.facebook.com/104927246235553/picture?width=200&height=200" group-title="AUTONÓMICOS",Visión 6 TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/376
+#EXTINF:-1 tvg-id="" tvg-name="Imás TV" tvg-logo="https://graph.facebook.com/television.imas/picture?width=200&height=200" group-title="AUTONÓMICOS",Imás TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/377
+#EXTINF:-1 tvg-id="" tvg-name="Alcarria TV" tvg-logo="https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200" group-title="AUTONÓMICOS",Alcarria TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/378
+#EXTINF:-1 tvg-id="" tvg-name="Alcarria TV" tvg-logo="https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200" group-title="AUTONÓMICOS",Alcarria TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/379
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Mancha Centro" tvg-logo="https://graph.facebook.com/canal4television/picture?width=200&height=200" group-title="AUTONÓMICOS",Canal 4 Mancha Centro
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/380
+#EXTINF:-1 tvg-id="" tvg-name="RTV Diocesana Toledo" tvg-logo="https://pbs.twimg.com/profile_images/668768296888631296/H1frmj8P_200x200.jpg" group-title="AUTONÓMICOS",RTV Diocesana Toledo
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/382
+#EXTINF:-1 tvg-id="" tvg-name="La 7" tvg-logo="https://graph.facebook.com/rtvcyl/picture?width=200&height=200" group-title="AUTONÓMICOS",La 7
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/383
+#EXTINF:-1 tvg-id="" tvg-name="La 8 Avila" tvg-logo="https://pbs.twimg.com/profile_images/440445995394953216/NVyW2cD6_200x200.jpeg" group-title="AUTONÓMICOS",La 8 Avila
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/384
+#EXTINF:-1 tvg-id="" tvg-name="La 8 Bierzo" tvg-logo="https://graph.facebook.com/La8Bierzo/picture?width=200&height=200" group-title="AUTONÓMICOS",La 8 Bierzo
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/385
+#EXTINF:-1 tvg-id="" tvg-name="La 8 Burgos" tvg-logo="https://graph.facebook.com/burgosmagazine/picture?width=200&height=200" group-title="AUTONÓMICOS",La 8 Burgos
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/386
+#EXTINF:-1 tvg-id="" tvg-name="La 8 Leon" tvg-logo="https://graph.facebook.com/la8leon/picture?width=200&height=200" group-title="AUTONÓMICOS",La 8 Leon
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/387
+#EXTINF:-1 tvg-id="" tvg-name="La 8 Palencia" tvg-logo="https://graph.facebook.com/La8Palencia/picture?width=200&height=200" group-title="AUTONÓMICOS",La 8 Palencia
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/388
+#EXTINF:-1 tvg-id="" tvg-name="La 8 Salamanca" tvg-logo="https://graph.facebook.com/la8salamanca/picture?width=200&height=200" group-title="AUTONÓMICOS",La 8 Salamanca
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/389
+#EXTINF:-1 tvg-id="" tvg-name="La 8 Segovia" tvg-logo="https://graph.facebook.com/la8segovia/picture?width=200&height=200" group-title="AUTONÓMICOS",La 8 Segovia
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/390
+#EXTINF:-1 tvg-id="" tvg-name="La 8 Soria" tvg-logo="https://graph.facebook.com/La8Soria/picture?width=200&height=200" group-title="AUTONÓMICOS",La 8 Soria
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/391
+#EXTINF:-1 tvg-id="" tvg-name="La 8 Valladolid" tvg-logo="https://graph.facebook.com/la8valladolid/picture?width=200&height=200" group-title="AUTONÓMICOS",La 8 Valladolid
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/392
+#EXTINF:-1 tvg-id="" tvg-name="La 8 Zamora" tvg-logo="https://pbs.twimg.com/profile_images/1656832260/Logo_Zamora_200x200.JPG" group-title="AUTONÓMICOS",La 8 Zamora
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/393
+#EXTINF:-1 tvg-id="" tvg-name="TV Benavente" tvg-logo="https://graph.facebook.com/benaventetv/picture?width=200&height=200" group-title="AUTONÓMICOS",TV Benavente
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/394
+#EXTINF:-1 tvg-id="" tvg-name="TV3 HD 720P" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="AUTONÓMICOS",TV3 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/399
+#EXTINF:-1 tvg-id="" tvg-name="324" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="AUTONÓMICOS",324
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/400
+#EXTINF:-1 tvg-id="" tvg-name="33" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="AUTONÓMICOS",33
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/403
+#EXTINF:-1 tvg-id="" tvg-name="Esport 3" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="AUTONÓMICOS",Esport 3
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/406
+#EXTINF:-1 tvg-id="" tvg-name="Super3 HD 720P" tvg-logo="https://statics.ccma.cat/img/logo.super3.png" group-title="AUTONÓMICOS",Super3 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/409
+#EXTINF:-1 tvg-id="" tvg-name="CCMA Exclusiu 1" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg" group-title="AUTONÓMICOS",CCMA Exclusiu 1
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/412
+#EXTINF:-1 tvg-id="" tvg-name="CCMA Exclusiu 2" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg" group-title="AUTONÓMICOS",CCMA Exclusiu 2
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/415
+#EXTINF:-1 tvg-id="" tvg-name="La 2 Catalunya" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="AUTONÓMICOS",La 2 Catalunya
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/419
+#EXTINF:-1 tvg-id="" tvg-name="24h Catalunya" tvg-logo="https://graph.facebook.com/24htve/picture?width=200&height=200" group-title="AUTONÓMICOS",24h Catalunya
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/420
+#EXTINF:-1 tvg-id="" tvg-name="TV3 Càmeres" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="AUTONÓMICOS",TV3 Càmeres
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/421
+#EXTINF:-1 tvg-id="" tvg-name="Bon Dia TV" tvg-logo="https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png" group-title="AUTONÓMICOS",Bon Dia TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/422
+#EXTINF:-1 tvg-id="" tvg-name="betevé" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="AUTONÓMICOS",betevé
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/424
+#EXTINF:-1 tvg-id="" tvg-name="teve.cat" tvg-logo="https://graph.facebook.com/teve.cat/picture?width=200&height=200" group-title="AUTONÓMICOS",teve.cat
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/425
+#EXTINF:-1 tvg-id="" tvg-name="Fibracat TV" tvg-logo="https://graph.facebook.com/fibracat/picture?width=200&height=200" group-title="AUTONÓMICOS",Fibracat TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/426
+#EXTINF:-1 tvg-id="" tvg-name="Canal Taronja Osona i Moianés" tvg-logo="https://graph.facebook.com/CanalTaronjaOsona/picture?width=200&height=200" group-title="AUTONÓMICOS",Canal Taronja Osona i Moianés
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/455
+#EXTINF:-1 tvg-id="" tvg-name="TV Girona" tvg-logo="https://graph.facebook.com/tvgirona/picture?width=200&height=200" group-title="AUTONÓMICOS",TV Girona
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/469
+#EXTINF:-1 tvg-id="" tvg-name="Mar TV" tvg-logo="https://graph.facebook.com/martelevisio/picture?width=200&height=200" group-title="AUTONÓMICOS",Mar TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/480
+#EXTINF:-1 tvg-id="" tvg-name="25 TV" tvg-logo="https://graph.facebook.com/298335373532952/picture?width=200&height=200" group-title="AUTONÓMICOS",25 TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/482
+#EXTINF:-1 tvg-id="" tvg-name="RTVCE" tvg-logo="https://graph.facebook.com/RTVCE/picture?width=200&height=200" group-title="AUTONÓMICOS",RTVCE
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/488
+#EXTINF:-1 tvg-id="" tvg-name="TVG" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONÓMICOS",TVG
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/490
+#EXTINF:-1 tvg-id="" tvg-name="TVG 2 HD 720P" tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="AUTONÓMICOS",TVG 2 HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/491
+#EXTINF:-1 tvg-id="" tvg-name="TVG Musigal" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONÓMICOS",TVG Musigal
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/492
+#EXTINF:-1 tvg-id="" tvg-name="TVG Cultura" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONÓMICOS",TVG Cultura
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/493
+#EXTINF:-1 tvg-id="" tvg-name="TVG Momentos G" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONÓMICOS",TVG Momentos G
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/494
+#EXTINF:-1 tvg-id="" tvg-name="TVG Evento 1" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONÓMICOS",TVG Evento 1
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/495
+#EXTINF:-1 tvg-id="" tvg-name="TVG Evento 2" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONÓMICOS",TVG Evento 2
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/496
+#EXTINF:-1 tvg-id="" tvg-name="TVG Evento 3" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONÓMICOS",TVG Evento 3
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/497
+#EXTINF:-1 tvg-id="" tvg-name="TVG Parlamento" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONÓMICOS",TVG Parlamento
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/500
+#EXTINF:-1 tvg-id="" tvg-name="TV Ferrol" tvg-logo="https://graph.facebook.com/tvferrol/picture?width=200&height=200" group-title="AUTONÓMICOS",TV Ferrol
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/501
+#EXTINF:-1 tvg-id="" tvg-name="Televigo" tvg-logo="https://graph.facebook.com/televigo/picture?width=200&height=200" group-title="AUTONÓMICOS",Televigo
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/502
+#EXTINF:-1 tvg-id="" tvg-name="TEF" tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="AUTONÓMICOS",TEF
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/503
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4" tvg-logo="https://graph.facebook.com/canal4televisio/picture?width=200&height=200" group-title="AUTONÓMICOS",Canal 4
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/504
+#EXTINF:-1 tvg-id="" tvg-name="Melilla TV" tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200" group-title="AUTONÓMICOS",Melilla TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/506
+#EXTINF:-1 tvg-id="" tvg-name="Popular TV Melilla" tvg-logo="https://graph.facebook.com/populartvml/picture?width=200&height=200" group-title="AUTONÓMICOS",Popular TV Melilla
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/507
+#EXTINF:-1 tvg-id="" tvg-name="ETB 1" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="AUTONÓMICOS",ETB 1
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/508
+#EXTINF:-1 tvg-id="" tvg-name="ETB 2" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="AUTONÓMICOS",ETB 2
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/509
+#EXTINF:-1 tvg-id="" tvg-name="Hamaika Telebista" tvg-logo="https://graph.facebook.com/HamaikaTb/picture?width=200&height=200" group-title="AUTONÓMICOS",Hamaika Telebista
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/511
+#EXTINF:-1 tvg-id="" tvg-name="Goiena" tvg-logo="https://graph.facebook.com/goiena.eus/picture?width=200&height=200" group-title="AUTONÓMICOS",Goiena
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/512
+#EXTINF:-1 tvg-id="" tvg-name="TeleBilbao" tvg-logo="https://graph.facebook.com/312994995454199/picture?width=200&height=200" group-title="AUTONÓMICOS",TeleBilbao
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/513
+#EXTINF:-1 tvg-id="" tvg-name="Oizmendi Telebista" tvg-logo="https://graph.facebook.com/oizmenditelebista/picture?width=200&height=200" group-title="AUTONÓMICOS",Oizmendi Telebista
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/518
+#EXTINF:-1 tvg-id="" tvg-name="Urola Telebista" tvg-logo="https://graph.facebook.com/urolatelebista/picture?width=200&height=200" group-title="AUTONÓMICOS",Urola Telebista
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/519
+#EXTINF:-1 tvg-id="" tvg-name="TPA7" tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=200&height=200" group-title="AUTONÓMICOS",TPA7
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/520
+#EXTINF:-1 tvg-id="" tvg-name="EsAsturiasTV" tvg-logo="https://graph.facebook.com/EsAsturiasTV/picture?width=200&height=200" group-title="AUTONÓMICOS",EsAsturiasTV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/521
+#EXTINF:-1 tvg-id="" tvg-name="7 R. de Murcia" tvg-logo="https://graph.facebook.com/La7TVRegiondeMurcia/picture?width=200&height=200" group-title="AUTONÓMICOS",7 R. de Murcia
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/523
+#EXTINF:-1 tvg-id="" tvg-name="RTV Vida" tvg-logo="https://graph.facebook.com/vidartv/picture?width=200&height=200" group-title="AUTONÓMICOS",RTV Vida
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/525
+#EXTINF:-1 tvg-id="" tvg-name="TeleArchena" tvg-logo="https://graph.facebook.com/telearchena.es/picture?width=200&height=200" group-title="AUTONÓMICOS",TeleArchena
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/526
+#EXTINF:-1 tvg-id="" tvg-name="TV3CAT" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="AUTONÓMICOS",TV3CAT
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/532
+#EXTINF:-1 tvg-id="" tvg-name="ETB SAT" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="AUTONÓMICOS",ETB SAT
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/533
+#EXTINF:-1 tvg-id="" tvg-name="TVG América" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONÓMICOS",TVG América
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/534
+#EXTINF:-1 tvg-id="" tvg-name="ATV Andorra" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="AUTONÓMICOS",ATV Andorra
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/535
+#EXTINF:-1 tvg-id="" tvg-name="ATV Andorra" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="AUTONÓMICOS",ATV Andorra
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/536
+#EXTINF:-1 tvg-id="" tvg-name="ATV Web Andorra" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="AUTONÓMICOS",ATV Web Andorra
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/537
+#EXTINF:-1 tvg-id="" tvg-name="ATV Web Andorra" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="AUTONÓMICOS",ATV Web Andorra
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/538
+#EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200" group-title="AUTONÓMICOS",RT
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/539
+#EXTINF:-1 tvg-id="" tvg-name="Top Latino TV" tvg-logo="https://graph.facebook.com/toplatinotv/picture?width=200&height=200" group-title="MUSICALES",Top Latino TV
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/590
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV EUROPE HD" tvg-logo="https://stereocien.com.mx/system/storage/serve/22664/mtveurope_publicity_cover_Lagosloaded.jpg" group-title="MUSICALES",ES: MTV EUROPE HD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/597
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV BASE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/MTV_Base_2017_logo.svg/490px-MTV_Base_2017_logo.svg.png" group-title="MUSICALES",ES: MTV BASE
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/598
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV ROCKS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1920px-MTV_Rocks_2017_logo.svg.png" group-title="MUSICALES",ES: MTV ROCKS HD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/599
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV DANCE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/MTV_Dance_2017_logo.svg/1920px-MTV_Dance_2017_logo.svg.png" group-title="MUSICALES",ES: MTV DANCE FHD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/600
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV HITS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MTV_Hits_2013_logo.svg/1920px-MTV_Hits_2013_logo.svg.png" group-title="MUSICALES",ES: MTV HITS HD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/601
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/MTV_Classic_2011.png" group-title="MUSICALES",ES: MTV CLASSIC
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/602
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV LIVE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/MTV_Live.svg/1200px-MTV_Live.svg.png" group-title="MUSICALES",ES: MTV LIVE FHD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/603
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV HITS EUROPE" tvg-logo="https://stereocien.com.mx/system/storage/serve/22664/mtveurope_publicity_cover_Lagosloaded.jpg" group-title="MUSICALES",ES: MTV HITS EUROPE
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/604
+#EXTINF:-1 tvg-id="" tvg-name="MTV'S 00 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VH1.png" group-title="MUSICALES",MTV'S 00 SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64837
+#EXTINF:-1 tvg-id="" tvg-name="ALL FLAMENCO HD 1080P" tvg-logo="https://institutoculturagitana.es/wp-content/uploads/2022/01/descarga.png" group-title="MUSICALES",ALL FLAMENCO HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65155
+#EXTINF:-1 tvg-id="" tvg-name="8TV HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/8tv_logo_2021.svg/1280px-8tv_logo_2021.svg.png" group-title="AUTONÓMICOS",8TV HD 720P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65226
+#EXTINF:-1 tvg-id="" tvg-name="DE: Deluxe Music HD (1080P)" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/deluxe_music_de.png" group-title="MUSICALES",DE: Deluxe Music HD (1080P)
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/64775
+#EXTINF:-1 tvg-id="" tvg-name="DBIKE HD 1080P" tvg-logo="https://dbikechannel.es/wp-content/uploads/2022/09/logodbike2020.png" group-title="ESPAÑA",DBIKE HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/65474
+#EXTINF:-1 tvg-id="" tvg-name="SURF CHANNEL HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=460500&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fsurfch.png" group-title="ESPAÑA",SURF CHANNEL HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/66654
+#EXTINF:-1 tvg-id="" tvg-name="7TV SD" tvg-logo=" https://7tvandalucia.es/cms/media/canal/canal-27.jpg" group-title="AUTONÓMICOS",7TV SD
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71061
+#EXTINF:-1 tvg-id="" tvg-name="MY PADEL TV HD 1080P" tvg-logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/MyPadelTV_1000x1000_Circle.png?$296_164_PNG" group-title="ESPAÑA",MY PADEL TV HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71291
+#EXTINF:-1 tvg-id="" tvg-name="ES: Rakuten 1" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="RAKUTEN",ES: Rakuten 1
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71460
+#EXTINF:-1 tvg-id="" tvg-name="ES: Rakuten 2" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="RAKUTEN",ES: Rakuten 2
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71461
+#EXTINF:-1 tvg-id="" tvg-name="ES: Rakuten 3" tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="RAKUTEN",ES: Rakuten 3
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71462
+#EXTINF:-1 tvg-id="" tvg-name="REKTV GAMER HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=464dcb&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Frektvgamer.png" group-title="ESPAÑA",REKTV GAMER HD 1080P
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71466
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA F (EVENTO 1)" tvg-logo="https://www.linkpicture.com/q/e_29.png" group-title="DAZN FINETWORK LIGA F",DAZN LIGA F (EVENTO 1)
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71051
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA F (EVENTO 2)" tvg-logo="https://www.linkpicture.com/q/e-copia.png" group-title="DAZN FINETWORK LIGA F",DAZN LIGA F (EVENTO 2)
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71052
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA F (EVENTO 3)" tvg-logo="https://www.linkpicture.com/q/e-1-W.png" group-title="DAZN FINETWORK LIGA F",DAZN LIGA F (EVENTO 3)
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71053
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA F (EVENTO 4)" tvg-logo="https://www.linkpicture.com/q/eE.png" group-title="DAZN FINETWORK LIGA F",DAZN LIGA F (EVENTO 4)
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71054
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA F (EVENTO 5)" tvg-logo="https://www.linkpicture.com/q/eEES.png" group-title="DAZN FINETWORK LIGA F",DAZN LIGA F (EVENTO 5)
+https://tv.totalrubycam.eu:2096/rcon-r/5vKXC8QxbY/71055
