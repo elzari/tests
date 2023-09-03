@@ -1,0 +1,1273 @@
+#EXTM3U
+#EXTM3U url-tvg="http://tropical.jungle-team.online/epg/koala_ottc.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
+#EXTM3U url-tvg="http://blackott.ath.cx/epg/peliculas.xml"
+
+#EXTINF:-1 tvg-id="Movistar Plus+" group-title="Movistar Plus+" ch-number="1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MPLUS",Movistar Plus+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8468eebb95d8418ca85df6a2381fb64d:008748a6acbbb3491bf5dd49355d8207
+https://mplus-dash-movistarplus.emisiondof6.com/dash/mplus.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Vamos" group-title="Movistar Plus+" ch-number="2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/VAMOSD",M+ Vamos
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77b7e5e8b6354bf8925af0ddd24afebd:635ed494d990466029b9681c7d981143
+https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Cine" group-title="Movistar Plus+" ch-number="4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MV1",M+ Cine
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fb1f0638d3f4aeca37a3c7a6af2fef6:c8d3d2725ca7fb23b0654830aa322f2a
+https://1mcine-dash-movistarplus.emisiondof6.com/dash/1mcine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Series" group-title="Movistar Plus+" ch-number="5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MV2",M+ Series
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09f31fd3fc584029b310e8e4891e194c:7aed71dceea44af72d944c3b57b009ae
+https://m1series-dash-movistarplus.emisiondof6.com/dash/m1series.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Originales" group-title="Movistar Plus+" ch-number="6" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MORIG",M+ Originales
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13075cef94e24ca29b4ef5614a1a1192:93488c3497a7c68486187db56efaba49
+https://moriginales-dash-movistarplus.emisiondof6.com/dash/moriginales.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Cracks" group-title="Movistar Plus+" ch-number="7" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MCFUT",M+ Cracks
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e0b0471630497eb81fc17f39a52218:4f44558664e3efc1811b7ce88beb597a
+https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Clásicos" group-title="Movistar Plus+" ch-number="15" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MCLAS",M+ Clásicos
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3167f5b1dca94bd39465b3a8a4295069:ec9c5d1a5435ccf47231105e7d31c0ba
+https://mclasicos-dash-movistarplus.emisiondof6.com/dash/mclasicos.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Acción" group-title="Movistar Plus+" ch-number="16" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPACCI",M+ Acción
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95af74d5fb594fd58b856a6d743cf77f:6494036d424881de28c0a7c9f3a1a19a
+https://accion-dash-movistarplus.emisiondof6.com/dash/accion.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Comedia" group-title="Movistar Plus+" ch-number="10" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPCOME",M+ Comedia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbde3400f434d138cface02a8ab7cab:14bbd81ac0b8e30cdc1d7b6645e7579a
+https://comedia-dash-movistarplus.emisiondof6.com/dash/comedia.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Drama" group-title="Movistar Plus+" ch-number="11" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPCOLE",M+ Drama
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0e8500c68184ce38f4295245ed31cfe:65b29f96ff077d4576654ec5be006cf9
+https://drama-dash-movistarplus.emisiondof6.com/dash/drama.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Cine Español" group-title="Movistar Plus+" ch-number="19" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DCESP",M+ Cine Español
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aab0fcd931144e489fff46f80fa98098:d68713bd9786b2c2cf45b0478ee1e91f
+https://espanol-dash-movistarplus.emisiondof6.com/dash/espanol.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Suspense" group-title="Movistar Plus+" ch-number="13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MSUSP",M+ Suspense
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1402c9cff644e849da55cfb92f2467b:ff12458374e6f01c3b710631df20badb
+https://msuspense-dash-movistarplus.emisiondof6.com/dash/msuspense.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Indie" group-title="Movistar Plus+" ch-number="14" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MINDI",M+ Indie
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=535ec7ec6ef6458e92bf953715a9b883:3bf44acc04bba5479207d28b28edef78
+https://mindie-dash-movistarplus.emisiondof6.com/dash/mindie.isml/manifest.mpd
+
+#Series y Cine 
+
+#EXTINF:-1 tvg-id="TCM HD" group-title="Series y Cine" ch-number="1" tvg-logo="https://media.tvup.cloud/canales/color_lg_6155cc4b7116f30021694e5d.png",TCM HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=48b41ebeec5143b1ae3255f36a28e55c:3fad38da816d77252851a951249ef143
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(TCMHD)/manifest.mpd
+
+#EXTINF:-1 tvg-shift=+2 tvg-id="TCM HD" group-title="Series y Cine" ch-number="2" tvg-logo="https://media.tvup.cloud/canales/color_lg_6155cc4b7116f30021694e5d.png",TCM HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad3f2de2e5ef49c9b5342a61d5345979:f92e4e6be921d4a110c268f1b0981148
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(TCM2HD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="TCM HD" group-title="Series y Cine" ch-number="3" tvg-logo="https://media.tvup.cloud/canales/color_lg_6155cc4b7116f30021694e5d.png",TCM HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"02efaf2e29b25db9bed5fdbb2ef94e8b":"9320e78d6460776130f3123469595332","0857fb4ffb525bf6b2e05b75b62015f3":"700ed254515e1ce1cd11e4b2547bbcdc","638f7314ca6f5ee9b11b50d2aaef9eed":"10f8d6d19cade299c767b9d8c526c569"}
+https://tvup-live.secure.footprint.net/tcmvos/tcmvos.mpd
+
+#EXTINF:-1 tvg-id="WARNER TV" group-title="Series y Cine" ch-number="4" tvg-logo="https://media.tvup.cloud/canales/color_lg_6155cbf4b8461d0022544cbf.png",WARNER TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b3676048a0940428c4a8e5f53adc1c3:d1cf8e4a6197584583dfddf2ded3421b
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(TNTHD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="WARNER TV" group-title="Series y Cine" ch-number="5" tvg-logo="https://media.tvup.cloud/canales/color_lg_6155cbf4b8461d0022544cbf.png",WARNER TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"06126cbf40a65bbf80b113ae7a197c6d":"bb4aede156703ba4b6553536afc74bc2","881c072a896757689c3a6e40df1c9ef0":"5cf7c2ca14263430f4e44a7dfac156d4","340dc435e54b576e8bcfc6b4885b9381":"eed8429c8399c40233dfd577d3fc54a0"}
+https://tvup-live.secure.footprint.net/tntvos/tntvos.mpd
+
+#EXTINF:-1 tvg-id="FOX" group-title="Series y Cine" ch-number="6" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/fox_200x200.png",FOX HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc1e7bf2842e4bd698016c4352cb0829:3da5bf512ed3350a4d53b0fd6cc00fa9
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(FOXHD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="AXN" group-title="Series y Cine" ch-number="7" tvg-logo="https://media.tvup.cloud/canales/color_lg_5e7deea45e1f90006bb77e05.png",AXN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dec5566abba04abfa3506872284416e6:555166b090f3c08444a9b6787c9629b6
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(AXNHD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="AXN" group-title="Series y Cine" ch-number="8" tvg-logo="https://media.tvup.cloud/canales/color_lg_5e7deea45e1f90006bb77e05.png",AXN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"36679ec113235842a6ca130c4575c794":"bd5d46c0461e3524449c0e08c7ea0a6f","758e6e44fc315c1b9a0327da56b44255":"a4448cfb39156abd0f1ba41969a6a116","41ca13862cc25ef393d6dd7b443ca2ca":"976ead12fc85a2515c27739479ff6fe8"}
+https://tvup-live.secure.footprint.net/axnvos/axnvos.mpd
+
+#EXTINF:-1 tvg-id="Comedy Central" group-title="Series y Cine" ch-number="9" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/paramount_200x200.png",Comedy Central
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d36bad49809245be8961000ae78c720d:d3ad885a7915498b6ebcfcce2189c902
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(PARAMOUNTCOMEDY)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Calle 13" group-title="Series y Cine" ch-number="10" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/calle13_200x200.png",Calle 13
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c79fdf760c5942f18cf7d1c2f49dfcf9:30a1fb90b75488390622df404960d896
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(CALLE13)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Calle 13" group-title="Series y Cine" ch-number="11" tvg-logo="https://media.tvup.cloud/canales/color_lg_61a08ef6196d7b0021eefd68.png",Calle 13
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+{"5721630a1b205b7ebacb0f2cbb6f8daa":"2115d0593598ea9ebefeb8eda9f7dd1d","06693536a5bb5bbdbbf3e16a39bb8319":"164ba2c2430102eb35810558975f41cc","e6f00627ba0156cc9bff981ccfc40608":"4f55bdae240b230377207f1dea3360bf"}
+#KODIPROP:inputstream.adaptive.license_key={"5721630a1b205b7ebacb0f2cbb6f8daa":"2115d0593598ea9ebefeb8eda9f7dd1d","06693536a5bb5bbdbbf3e16a39bb8319":"164ba2c2430102eb35810558975f41cc","e6f00627ba0156cc9bff981ccfc40608":"4f55bdae240b230377207f1dea3360bf"}
+https://tvup-live.secure.footprint.net/calle13vos/calle13vos.mpd
+
+#EXTINF:-1 tvg-id="SUNDANCE TV" group-title="Series y Cine" ch-number="12" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/sundancetv_200x200.png",SUNDANCE TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90ab3df5f4a249398d2f6d669fa7253a:80164a3272dbb95de353323c4c98c5b2
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(SUNDANCESD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="SOMOS" group-title="Series y Cine" ch-number="13" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/somos_200x200.png",SOMOS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2091b26bea3d495fb3f46ef99cafe686:b26af0724a50317a3009f19568179f5c
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(SOMOS)/manifest.mpd
+
+#EXTINF:-1 tvg-id="BOM" group-title="Series y Cine" ch-number="14" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/bom_cine_200x200.png",BOM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d852c83073ec48a8bd2fe98cd4431e1b:8be31cc87927b4b0178b38cc660887eb
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(BOMCINE)/manifest.mpd
+
+#EXTINF:-1 tvg-id="AXN MOVIES" group-title="Series y Cine" ch-number="15" tvg-logo="https://media.tvup.cloud/canales/color_lg_6155cb3cb8461d0022544bd7.png",AXN MOVIES
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fd3d8c4939b4309bbdbf587bfa8ee79:750cf87df8936b723ffbc987e6644b2e
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(AXNWHITE)/manifest.mpd
+
+#EXTINF:-1 tvg-id="AXN MOVIES" group-title="Series y Cine" ch-number="16" tvg-logo="https://media.tvup.cloud/canales/color_lg_6155cb3cb8461d0022544bd7.png",AXN MOVIES
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9d0e1d32ace3532e81fb21be52949c56":"54ae194b083112f3008e905313be5093","82a77b401c0c5be3a5907b9962788337":"695608510248592e048954f532c69db7","9c262a291c60590bad7b1bf0bb54aaa3":"a1f6a488ce17d9fc6a2f17ab321ffb56"}
+https://tvup-live.secure.footprint.net/axnwhitevos/axnwhitevos.mpd
+
+#EXTINF:-1 tvg-id="XTRM" group-title="Series y Cine" ch-number="17" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/xtrm_200x200.png",XTRM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b36f4d75c91a4a6cab88dd69e0b9d1d2:a1b2a2a5d544f369041898911dd443a0
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(XTREMEHD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="DARK" group-title="Series y Cine" ch-number="18" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/dark.jpg",DARK
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de58458fdd3f4bca990b7f6a25710008:ac5d8e0828cf23406ab3ecf6d998a9fc
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(CANAL18)/manifest.mpd
+
+#EXTINF:-1 tvg-id="SYFY" group-title="Series y Cine" ch-number="19" tvg-logo="https://media.tvup.cloud/canales/color_lg_61a08fb70184470022338cd0.png",SYFY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdcc7d2086934b1da5436823709b8a96:76490bb4b4b8402b55bc9de2ce9aed0d
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(SYFY)/manifest.mpd
+
+#EXTINF:-1 tvg-id="SYFY" group-title="Series y Cine" ch-number="20" tvg-logo="https://media.tvup.cloud/canales/color_lg_61a08fb70184470022338cd0.png",SYFY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ab5b7ffa610a557db6c1f53d87ff509f":"71e12aedc10ca89f45fdac4b768d2203","afb915994fe955139e252c39181ecc08":"4e9730a2d298fab3fc22fdb07dc7bd56","92b4029f4f685e16af0ab7b454507cc1":"646177d8a6d4ee42f8233a88ccdc0bdf"}
+https://tvup-live.secure.footprint.net/syfyvos/syfyvos.mpd
+
+#EXTINF:-1 tvg-id="AMC" group-title="Series y Cine" ch-number="21" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/AMC_200x200.png",AMC HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3cb248f820e46f68faabffacf7f50cc:813d4d7c77ce8e0c70c295befcb6e2b7
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(AMCHD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="HOLLYWOOD" group-title="Series y Cine" ch-number="22" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/hollywood_Color_200x200.png",HOLLYWOOD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63637bb57f074186994f7bc942c07df5:49f5f2e1c68280437c7c91fd16f211ed
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(HOLLYWOODHD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Cines Verdi TV" group-title="Series y Cine" ch-number="23" tvg-logo="https://media.tvup.cloud/canales/color_lg_61c334655ca0550022dd5bad.png",Cines Verdi TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9097ecce336d42b4a45efb07a84c1d49:31468a4538fdc78062d64635626ddc3a
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(VERDI)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Cine Feel Good" group-title="Series y Cine" ch-number="24" tvg-logo="https://media.tvup.cloud/canales/color_lg_61c335178a6158002173130d.png",Cine Feel Good
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b9e64ec5c7646998585db86a10f3aa3:78be574c36ce9529b40f96f50c9cc973
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(FEELGOOD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Verdi Classics TV" group-title="Series y Cine" ch-number="25" tvg-logo="https://media.tvup.cloud/canales/color_lg_619e1671196d7b0021e9dc66.png",Verdi Classics TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e008068945555fec939f797c373c9950":"78fb6dc1c8494632d4f03015940d69f7","af06c2015f945d408b5db5991846edbe":"eba0547f0542ea8243b0feb9e3620a5c","206c96751450509786e0149a16ffadf3":"14456f0344b1dc3e4a1f741818027b79"}
+https://tvup-live.secure2.footprint.net/verdi/verdi.mpd
+
+#EXTINF:-1 tvg-id="Global Telenovelas" group-title="Series y Cine" ch-number=26" tvg-logo="https://ver.zapitv.com/images/ch/39/LOGO/m/0",Global Telenovelas
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf4671f44116448236c23dc7813c4835:e01ba6e0304c3e0d82b3705e01607a9e
+https://cache4.zapitv.com/live/eds_c2/de_telenovelas/dash_live_enc/de_telenovelas.mpd
+
+#EXTINF:-1 tvg-id="TLnovelas" group-title="Series y Cine" ch-number="27" tvg-logo="https://ver.zapitv.com/images/ch/370/LOGO/m/0",TLnovelas
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a560efbcb6255d48cf98ff54a632f24:ca77a016d3345bd64c94de73bac8bf45
+https://cache4.zapitv.com/live/eds_c2/TELENOVELAS/dash_live_enc/TELENOVELAS.mpd
+
+#EXTINF:-1 tvg-id="De Pelí­cula" group-title="Series y Cine" ch-number="28" tvg-logo="https://ver.zapitv.com/images/ch/372/LOGO/m/0",De Pelí­cula
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe67ff953b5d188cbccbe54146873065:7bb77b414fec132cc8d6ac911e3246ef
+https://cache2.zapitv.com/live/eds_c2/DEPELICULAS/dash_live_enc/DEPELICULAS.mpd
+
+#EXTINF:-1 tvg-id="Runtime Series" group-title="Series y Cine" ch-number="29" tvg-logo="https://media.tvup.cloud/canales/color_lg_62d048b854e537001b828bec.png",Runtime Series
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-rtss/.m3u8?
+
+#EXTINF:-1 tvg-id="KANAL D Drama" group-title="Series y Cine" ch-number="30" tvg-logo="https://media.tvup.cloud/canales/color_lg_63f4b3d665b3be00230bd063.png",KANAL D Drama
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-vkdd/3cf79c7253b5fdc866cd0c06e2fb7170/.m3u8?
+
+#EXTINF:-1 tvg-id="Frecuencia Novelas" group-title="Series y Cine" ch-number="31" tvg-logo="https://media.tvup.cloud/canales/color_lg_64109b6bc2b2b100249a9350.png",Frecuencia Novelas
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-FNovelas/625315098d6c5ad13e67578e24fefef9/.m3u8?
+
+#EXTINF:-1 tvg-id="SELEKT" group-title="Series y Cine" ch-number="32" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/selekt_200x200.png",SELEKT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e94f67508746475398a5dc7d23a0b138:b5d24b6f04a41adc8d6a6947a78dd6e8
+https://live.euskaltel.com/Content/DASH_MDRM/Live/Channel(SELEKT)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Runtime" group-title="Series y Cine" ch-number="33" tvg-logo="https://media.tvup.cloud/canales/color_lg_6296030832e730001aa21ad9.png",Runtime
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-rtflgs/.m3u8
+
+#EXTINF:-1 tvg-id="Acontra+ Cine" group-title="Series y Cine" ch-number="34" tvg-logo="https://acontraplus.com/wp-content/uploads/2021/12/LOGO-ACONTRA.png",Acontra+ Cine
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b1b8e4f07d049e4bfac5ca39a601ed2:3ee412aa051502ae69d3b141670f830b
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(CPESTRENOSHD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Runtime Cine y Series" group-title="Series y Cine" ch-number="35" tvg-logo="https://media.tvup.cloud/canales/color_lg_6296030832e730001aa21ad9.png",Runtime Cine y Series
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-filmco/bf9c6501109a65d50a0f164db0a272e4/.m3u8
+
+#EXTINF:-1 tvg-id="Runtime Acción" group-title="Series y Cine" ch-number="36" tvg-logo="https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png",Runtime Acción
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-rtaccn/53f0b7ecb64151c0efd6716e36321ef4/.m3u8
+
+#EXTINF:-1 tvg-id="Runtime Comedia" group-title="Series y Cine" ch-number="37" tvg-logo="https://media.tvup.cloud/canales/color_lg_62d0470c54e537001b828b7c.png",Runtime Comedia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-rtcomd/3a206ef355f10456753b7193b45d9a6a/.m3u8
+
+#EXTINF:-1 tvg-id="Runtime Thriller-Terror" group-title="Series y Cine" ch-number="38" tvg-logo="https://media.tvup.cloud/canales/color_lg_62d04789109c93001a7ccd1c.png",Runtime Thriller-Terror
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-rtthrl/bbbe76310bd1faa4c35b72e280c0e52c/.m3u8
+
+#EXTINF:-1 tvg-id="Runtime Crimen" group-title="Series y Cine" ch-number="39" tvg-logo="https://media.tvup.cloud/canales/color_lg_62d047d015d6db00212fa43f.png",Runtime Crimen
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-rtcrim/636102445a41e488b3ae1d0b84aa1227/.m3u8
+
+#EXTINF:-1 tvg-id="Runtime Romance" group-title="Series y Cine" ch-number="40" tvg-logo="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png",Runtime Romance
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-rtromc/6b6f7a5e95d53a174362113b202c803d/.m3u8
+
+#EXTINF:-1 tvg-id="RunTime Clásico" group-title="Series y Cine" ch-number="41" tvg-logo="https://media.tvup.cloud/canales/color_lg_62d0482397f0ad0023422956.png",RunTime Clásico
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-rtromc/6b6f7a5e95d53a174362113b202c803d/.m3u8
+
+#EXTINF:-1 tvg-id="RunTime Trash" group-title="Series y Cine" ch-number="42" tvg-logo="https://media.tvup.cloud/canales/color_lg_642297c5fe71e4001bd0970d.png",Run:Time Trash
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/RTrash-tvfy/b08edf179d091bdafa377422b0251b93/.m3u8
+
+#EXTINF:-1 tvg-id="CINE FRIKI" group-title="Series y Cine" ch-number="43" tvg-logo="https://media.tvup.cloud/canales/color_lg_641098c475965f001c37812a.png",CINE FRIKI
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/zylo-CFriki/d3cf68a838dd07da28e94b27d7c64a09/.m3u8
+
+#EXTINF:-1 tvg-id="Sin Filtros" group-title="Series y Cine" ch-number="44" tvg-logo="https://media.tvup.cloud/canales/color_lg_628cf62c65774400228dca04.png",Sin Filtros
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tivify-sinfiltros/.m3u8
+
+#Gol Mundial
+
+#EXTINF:-1 tvg-id="Gol Mundial 1" group-title="Gol Mundial" ch-number="1" tvg-logo="https://golmundial.com/meta-image.jpg",Gol Mundial 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91a0ed97a694454aa614dda17c21c85c:fa29320117a91bccad736c13ffe5750f
+https://d285sv3bhzejea.cloudfront.net/out/v1/c98659833828473aabeb304dcc6f5ecf/index.mpd
+
+#EXTINF:-1 tvg-id="Gol Mundial 2" group-title="Gol Mundial" ch-number="2" tvg-logo="https://golmundial.com/meta-image.jpg",Gol Mundial 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0ce9639bed54adbb2cb56fc72c432f1:975415c916d541936e5c93bc759a8377
+https://d2hgospz8f10hw.cloudfront.net/out/v1/da8c9263958e4e12bec76934761f2ce5/index.mpd
+
+#EXTINF:-1 tvg-id="Gol Mundial 3" group-title="Gol Mundial" ch-number="3" tvg-logo="https://golmundial.com/meta-image.jpg",Gol Mundial 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=199a96c2d3b047148e9afb7cb8d5be6f:85035e3db7e553efbc6ecd4f23179e3f
+https://d3i11gxzfdhtlf.cloudfront.net/out/v1/900db88ab36346f1857db342ee8c23bd/index.mpd
+
+#EXTINF:-1 tvg-id="Gol Mundial 4" group-title="Gol Mundial" ch-number="4" tvg-logo="https://golmundial.com/meta-image.jpg",Gol Mundial 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=402c5dc281e9447ab3bcf5fd0dcf18c4:a387b3c29a9c9b23df44d0c6687d7c83
+https://d2j6l84ila4fwb.cloudfront.net/out/v1/9f8390081cb34ca88d413255620725aa/index.mpd
+
+#EXTINF:-1 tvg-id="Gol Mundial 5" group-title="Gol Mundial" ch-number="5" tvg-logo="https://golmundial.com/meta-image.jpg",Gol Mundial 5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f543e07ad3b74ed4a2a5bf3f8f426156:3335895e1bc8e8066b67affb74ce76f6
+https://dcj82g4u51xd6.cloudfront.net/out/v1/6b0c28edb80141969e22da6fdae4ebb0/index.mpd
+
+#Deportes
+
+#EXTINF:-1 tvg-id="M+ Vamos" group-title="Deportes" ch-number="1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/VAMOSD",M+ Vamos
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77b7e5e8b6354bf8925af0ddd24afebd:635ed494d990466029b9681c7d981143
+https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Ellas Vamos" group-title="Deportes" ch-number="2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MELLAV",M+ Ellas Vamos
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc457d13e8354e3ba3fe467dfe5315ed:3abb7fb8106da89825dab57fd1c2e24e
+https://ellasv-dash-movistarplus.emisiondof6.com/dash/ellasv.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV" group-title="Deportes" ch-number="3" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA",M+ LaLiga TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4ffdb4c283a4967951a14b83cd17e22:da0fa7897990f3252fcd16cafa614a94
+https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2" group-title="Deportes" ch-number="4" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1",M+ LaLiga TV 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5fad66f199041b1a52dc4941ef958e0:3ada35c2bdf9cd238bbdd704f7807946
+https://2liga-dash-movistarplus.emisiondof6.com/dash/2liga.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="LaLiga Plus" group-title="Deportes" ch-number="5" tvg-logo="https://media.tvup.cloud/canales/color_lg_64bffe289973e4703802ccdb.png",LaLiga Plus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a995400e36294d59aac83fa9b7d3591e:45f5ce392cb262cbbcbe422e040d1fc5
+https://live.euskaltel.com/Content/DASH_MDRM/Live/Channel(LIGASPORTS)/manifest.mpd
+
+#EXTINF:-1 tvg-id="DAZN LaLiga" group-title="Deportes" ch-number="6" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI",DAZN LaLiga
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e600aa0b76d549a48d858786597613cb:bf91772a60899638312a566f73e1a5b5
+https://01daznliga-dash-movistarplus.emisiondof6.com/dash/01daznliga.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" group-title="Deportes" ch-number="7" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGS",LALIGA TV HYPERMOTION
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3424056a1fa446ef9f91b39c58d52231:57893b8e1af56f70a6c787412d8c826b
+https://msegdiv-dash-movistarplus.emisiondof6.com/dash/msegdiv.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" group-title="Deportes" ch-number="8" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGS2",LALIGA TV HYPERMOTION 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc77c5e033f45ca874fdc0f28e79200:31052a3d0c5cd70934e5139ae5790235
+https://2segdiv-dash-movistarplus.emisiondof6.com/dash/2segdiv.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" group-title="Deportes" ch-number="9" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGS3",LALIGA TV HYPERMOTION 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8726ee7d09dc41a688ada5df49c08ea1:8ce090ab40e5af32015422775fb1bc5c
+https://3segdiv-dash-movistarplus.emisiondof6.com/dash/3segdiv.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" group-title="Deportes" ch-number="10" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO",M+ Liga de Campeones
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cc9c1da4e004c62a3341b8e6e600aed:71f8bfd2c296118faf1132f638a8894a
+https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" group-title="Deportes" ch-number="11" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1",M+ Liga de Campeones 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9379aeb682e424b9d30e38e571447a6:fcdf427820f671502d15c9e298025d3d
+https://02campeones-dash-movistarplus.emisiondof6.com/dash/02campeones.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" group-title="Deportes" ch-number="12" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP2",M+ Liga de Campeones 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9878583b43714da68b4c1bbfc7642ee3:777e2a87439c1b28c9015fca5bffa264
+https://03campeones-dash-movistarplus.emisiondof6.com/dash/03campeones.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+DEPORTESHD" group-title="Deportes" ch-number="13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPDEP",M+DEPORTESHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f18c39b70f8146d9a79e9dc0c329464d:646fd34f890a5cdb655bf9a97af06d47
+https://mdeportes-dash-movistarplus.emisiondof6.com/dash/mdeportes.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+DEPORTES2HD" group-title="Deportes" ch-number="14" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ARTHUR",M+DEPORTES2HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=950ea23dbe3a4fde87568e21de5db567:ba466109f142e2ad4df606379a8e2aa0
+https://2multidep-dash-movistarplus.emisiondof6.com/dash/2multidep.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+DEPORTES3" group-title="Deportes" ch-number="15" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/USOP2",M+DEPORTES3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13770bb91478480d8805a8d800a001f9:2b6236a5edc2894a972c0791932f3b4e
+https://3multidep-dash-movistarplus.emisiondof6.com/dash/3multidep.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Golf" group-title="Deportes" ch-number="16" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF%2B",M+ Golf
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff9f96b0f764421fb84df9e6babe45e8:5d95b15a3e821d733d09aa82faacfbdb
+https://mgolf-dash-movistarplus.emisiondof6.com/dash/mgolf.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Golf 2" group-title="Deportes" ch-number="17" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF2",M+ Golf 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=680e0c467e784762b3ee3902cfd0a3ff:51870e52002a839d6fe0761b76f34716
+https://2golf-dash-movistarplus.emisiondof6.com/dash/2golf.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="DAZN 1" group-title="Deportes" ch-number="18" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD",DAZN 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 tvg-id="DAZN 2" group-title="Deportes" ch-number="19" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M2SD",DAZN 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 tvg-id="DAZN 3" group-title="Deportes" ch-number="20" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN3",DAZN 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4641842b5824390a7fe8d4ec781031d:cd156815ef05dcc9fcc3626e7d52db79
+https://dazn3-dash-movistarplus.emisiondof6.com/dash/dazn3.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="DAZN 4" group-title="Deportes" ch-number="21" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZN4",DAZN 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=436c2164392e460dae41420f53f9f396:8e0ea1289135355f0aef59266bd0070e
+https://dazn4-dash-movistarplus.emisiondof6.com/dash/dazn4.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="DAZN F1" group-title="Deportes" ch-number="22" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1",DAZN F1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=413b3adb78dd4684a7866819786b8836:92d6e5cfbe02fef2e09e27617e3b9403
+https://formula1-dash-movistarplus.emisiondof6.com/dash/formula1.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Canal+ MotoGP FR" group-title="Deportes" ch-number="23" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_MotoGP.png",Canal+ MotoGP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bcaa6eefa85c44158d9361a2460fa695":"c55feedf99437ac42a8088f4ab0041d7","29c84173ce844169b09b8a45211bff66":"bd11d65339ecbb32b8c068bdeffc77a9","dcc86536681d4597bb1ed247e5e32c10":"b46453083462ce11fa6de95acda0c7e6"}
+https://dsh-c17-live-canalplus.akamaized.net/live/disk/oi-reu-cplusmotogp/dash-fhddvr/oi-reu-cplusmotogp.mpd
+
+#EXTINF:-1 tvg-id="Canal+ Formula 1 FR" group-title="Deportes" ch-number="24" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1061810670808608808/canalf1.png",Canal+ Formula 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"83A5lln1SVSoCg5Tx6h7QA","k":"yU/YwwPbyfZBWsJ0TtkhEw"},{"kty":"oct","kid":"SCAy5NVMSGmIFNGZWj9FLA","k":"aS/xMB111sb3VvwxGX//mg"},{"kty":"oct","kid":"k8KJNVWiQFmKSgrkDrQH1Q","k":"rHAAoGyMfsCzOIHXBRrcVg"},{"kty":"oct","kid":"Kz7KkJPoTrOUGuw5YS3IFA","k":"l+LT4AN7A5Sz1SrSOTA40Q"}]}
+https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalplusf1-hd/dash-fhddvr/canalplusf1-hd.mpd
+
+#EXTINF:-1 tvg-id="Sky Sport F1 GER" group-title="Deportes" ch-number="25" tvg-logo="https://www.pngkit.com/png/full/306-3069632_sky-sports-f1-1080p-sky-sports-main-event.png",Sky Sport F1 GER
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005de226b16ae5d75df48aa6099cca6:75e80519551edc03e890e13f01abd26d
+http://linear004-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsf1)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="Deportes" ch-number="26" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/eurosport1_200x200.png",Eurosport 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e3c29ffed0448f7890c545309246071:5b8edc73276697eb62b2aba3e22cbedf
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(EUROSPORT)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="Deportes" ch-number="27" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/eurosport2_200x200.png",EUROSPORT 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc147d4a79d9494ead0b4a4aab0bd0e3:419a704799be9deae39fa267fd41a460
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(EUROSPORT2)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Realmadrid TV HD" group-title="Deportes" ch-number="28" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/REALM",Realmadrid TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1a47794fbcc415693b765899460e639:6a55c23eebf1286d28d53eb94d640d78
+https://realmadrid-dash-movistarplus.emisiondof6.com/dash/realmadrid.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Sevilla FC TV" group-title="Deportes" ch-number="29" tvg-logo="https://ver.zapitv.com/images/ch/360/LOGO/m/0",Sevilla FC TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://streamer.zapitv.com/sevillafc/index.mpd
+
+#EXTINF:-1 tvg-id="Betis TV" group-title="Deportes" ch-number="30" tvg-logo="https://ver.zapitv.com/images/ch/361/LOGO/m/0",Betis TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://streamer.zapitv.com/betis/index.mpd
+
+#EXTINF:-1 tvg-id="EXTRSPORTS" group-title="Deportes" ch-number="31" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/extreme_200x200.png",EXTRSPORTS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c99595107314347a0645bd14a84f2fe:0a5b31e7635767372ea48c8e5c04df74
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(EXTRSPORTS)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Surf Channel" group-title="Deportes" ch-number="32" tvg-logo="https://ver.zapitv.com/images/ch/136/LOGO/m/0",Surf Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f59b4aefec579d0e2e27acb881b042a:c9d80a33d090b8b31098b78e0a663cda
+https://cache4.zapitv.com/live/eds_c2/surf_channel/dash_live_enc/surf_channel.mpd
+
+#EXTINF:-1 tvg-id="REKTV" group-title="Deportes" ch-number="33" tvg-logo="https://ver.zapitv.com/images/ch/305/LOGO/m/0",REKTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2e9efdd9a0b933647fb7a46c26e68fc:f45832f2f37e3727b3dec7f66a7166dd
+https://cache4.zapitv.com/live/eds_c2/REKTV/dash_live_enc/REKTV.mpd
+
+#EXTINF:-1 tvg-id="UBEAT" group-title="Deportes" ch-number="34" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/ubeat_200x200.png",UBEAT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ab78d96b3d04ecc984fdc0748e3066f:adbcf0645b6eee7b45b67076d2f4c699
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(UBEAT)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Red Bull TV GER" group-title="Deportes" ch-number="35" tvg-logo="https://media.tvup.cloud/canales/5c4352438c3e78047f57c408logoBlanco.png",Red Bull TV GER
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-id="Moto ADV" group-title="Deportes" ch-number="36" tvg-logo="https://ver.zapitv.com/images/ch/308/LOGO/m/0",Moto ADV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=047c8158ba826800c3a4b4607d56cbad:3eb58821118274ecc506a7d4b8343715
+https://cache4.zapitv.com/live/eds_c2/moto_adv_hd/dash_live_enc/moto_adv_hd.mpd
+
+#EXTINF:-1 tvg-id="MotorVision TV" group-title="Deportes" ch-number="37" tvg-logo="https://media.tvup.cloud/canales/color_lg_5e455c96531ee300764b5e5d.png",MotorVision TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-mtov/791b83ec57063d5be36796eaa1279dcd/.m3u8
+
+#EXTINF:-1 tvg-id="El Garage TV" group-title="Deportes" ch-number="38" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GARAGE",El Garage TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=674e911f6074434aa77fa006912170e6:071232af437dabf6c61238622412aa37
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(GARAGETV)/manifest.mpd
+
+#EXTINF:-1 tvg-id="EFC Premium Fights" group-title="Deportes" ch-number="39" tvg-logo="https://inverleigh.com/wp-content/uploads/2018/09/efc-p.png",EFC Premium Fights
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b619a5bd25977327d25d60d5be1cf82a:de028949cf19fa3ed23df9c769a396ae
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/suxa4abq1f/out/v1/cf0a6e4efa204452a76f49fbb0983e25/cenc.mpd
+
+#EXTINF:-1 tvg-id="Fight Box HD" group-title="Deportes" ch-number="40" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png",Fight Box HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:225_premium.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="NBA TV" group-title="Deportes" ch-number="41" tvg-logo="https://i.imgur.com/72ozG35.png",NBA TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-035/stream.mpd
+
+#EXTINF:-1 tvg-id="NFL Network" group-title="Deportes" ch-number="42" tvg-logo="https://i.imgur.com/gtipzAn.png",NFL Network
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-023/stream.mpd
+
+#EXTINF:-1 tvg-id="MLB Network" group-title="Deportes" ch-number="43" tvg-logo="https://i.imgur.com/xUsULFV.png",MLB Network
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-026/stream.mpd
+
+#Entretenimiento
+
+#EXTINF:-1 tvg-id="AMC Break" group-title="Entretenimiento" ch-number="1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BIOGRA",AMC Break
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d28d2ee92c34669ac4ed380cbc2f316:284a3bba9acabc6109282bd866d2b80c
+https://breakamc-dash-movistarplus.emisiondof6.com/dash/breakamc.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="AMC Crime" group-title="Entretenimiento" ch-number="2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CYM",AMC Crime
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50d9708d9d814d919a2af457060dc55e:0358f48f4a93b5f999bfc58699ea15ec
+https://crimeamc-dash-movistarplus.emisiondof6.com/dash/crimeamcor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="BuenViaje" group-title="Entretenimiento" ch-number="109" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BUENV",BuenViaje
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88a1a31ef2e54e6e9191eee55ffe25c0:82ddd9f02169a5ddce6360c65a545645
+https://live.euskaltel.com/Content/DASH_MDRM/Live/Channel(SOLMUSICA)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Canal Cocina" group-title="Entretenimiento" ch-number="110" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CACOC",Canal Cocina
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4074ed3a5d3541d68b9a06a391c519ea:0215a508f3925cb98ab7be64f7e55aba
+https://cocina-dash-movistarplus.emisiondof6.com/dash/cocina.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Decasa" group-title="Entretenimiento" ch-number="111" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DECASA",Decasa
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7489f77bde4f62867a3bad923e5498:452f2f349202408abb0936c92bd20b76
+https://decasa-dash-movistarplus.emisiondof6.com/dash/decasa.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="COSMO" group-title="Entretenimiento" ch-number="112" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/cosmo_200x200.png",COSMO HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4cd5c014ed0432b9728437e4b52a77e:6b1cf6a73af1e918a6337c74be98a3c4
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(COSMOHD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="DISCOVERY" group-title="Entretenimiento" ch-number="113" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/discovery.png",DISCOVERY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab5c7a03963646d2ae351e7af992cb66:c7d1b14a3bc198f31e7a48220ae07b4e
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(DISCOVERY)/manifest.mpd
+
+#EXTINF:-1 tvg-id="HISTORIA" group-title="Entretenimiento" ch-number="114" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/historia_200x200.png",HISTORIA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6252f640bae840648d57178de0d3afe0:ebaaf953291ca12090d8ecba7d72296d
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(HISTORIA)/manifest.mpd
+
+#EXTINF:-1 tvg-id="NAT GEO HD" group-title="Entretenimiento" ch-number="115" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/national_geographic_200x200.png",NAT GEO HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=373000f26a1544c28e4c809fe24ac510:f9904d3fce15191ea902d5b9253f7c98
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(NATGEOHD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Nat Geo Wild" group-title="Entretenimiento" ch-number="116" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/national_geographic_WILD_200x200.png",Nat Geo Wild
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d5f95d281df48d884dfdc0f23ab4d57:00eeca228b66e7e4ad9766d03d7e447b
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(NATGEOWILDSD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="CANAL ODISEA" group-title="Entretenimiento" ch-number="117" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/odisea_200x200.png",CANAL ODISEA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51eb1b0bf1fa4b01a66bb47c7c65c43c:bef600457f62c5c68a9f38b49fa78bc7
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(ODISEAHD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Escapa TV" group-title="Entretenimiento" ch-number="118" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/escapatv_200x200.png",Escapa TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25d2540df6be40588fa4f63b99369f49:4c7d447f319af750349a8d22b3f73814
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(ESCAPA)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Iberalia TV" group-title="Entretenimiento" ch-number="119" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/iberalia_200x200.png",Iberalia TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc906a6b259d4b41b25eb870d848901a:36fcf542323e796821eb4af539ba6734
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(IBERALIA)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Iberalia 100% Caza" group-title="Entretenimiento" ch-number="120" tvg-logo="https://ver.zapitv.com/images/ch/51/LOGO/m/0",Iberalia 100% Caza
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54be45ed0cc1524243461e2f420310d9:6d1386b01391d3d86f4debf5d9650fe7
+https://cache2.zapitv.com/live/eds_c2/iberalia_caza/dash_live_enc/iberalia_caza.mpd  
+
+#EXTINF:-1 tvg-id="Iberalia 100% Pesca" group-title="Entretenimiento" ch-number="121" tvg-logo="https://ver.zapitv.com/images/ch/52/LOGO/m/0",Iberalia 100% Pesca
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ae3343806fda8a7bc27d38ab605a702:9a6a18d6877a1cfb037417be8ec3d7e6
+https://cache4.zapitv.com/live/eds_c2/iberalia_pesca/dash_live_enc/iberalia_pesca.mpd
+
+#EXTINF:-1 tvg-id="Caza y Pesca" group-title="Entretenimiento" ch-number="122" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CAZPES",Caza y Pesca
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e08814a33e4842d29cb6d4cf97af6f36:4d40de76240002f6f0dfbccd5e145476
+https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Cazavisión" group-title="Entretenimiento" ch-number="123" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/cazavision_200x200.jpg",Cazavisión
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4548cde183064e8e8e8e10d587cba7c7:ad8add4d0b6064aa41929f02ffda98ac
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(CAZAVISION)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Nature Time" group-title="Entretenimiento" ch-number="125" tvg-logo="https://media.tvup.cloud/canales/color_lg_63d7d182cbf06800233de624.png",Nature Time
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-ntm/b750cb123d68b0acd590666ec7788065/.m3u8
+
+#EXTINF:-1 tvg-id="Vivir con gatos" group-title="Entretenimiento" ch-number="127" tvg-logo="https://media.tvup.cloud/canales/color_lg_628cf40c65774400228dc57a.png",Vivir con gatos
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tivify-vivircongatos/.m3u8
+
+#EXTINF:-1 tvg-id="Vivir con perros" group-title="Entretenimiento" ch-number="128" tvg-logo="https://media.tvup.cloud/canales/color_lg_628cf372f712d6001b3a6484.png",Vivir con perros
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tivify-vivirconperros/.m3u8
+
+#EXTINF:-1 tvg-id="Mascotas Tv" group-title="Entretenimiento" ch-number="129" tvg-logo="https://torrijostoday.com/wp-content/uploads/2022/02/mascotas.jpg",Mascotas Tv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginPacket06/smil:125_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Fashion TV" group-title="Entretenimiento" ch-number="130" tvg-logo="https://media.tvup.cloud/canales/color_lg_639737a1355098001a413cbf.png",Fashion TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-fshtv/92c33f930c056fcf22b4378b994d5ab6/.m3u8
+
+#EXTINF:-1 tvg-id="Fashion Box HD" group-title="Entretenimiento" ch-number="131" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fashionboxhd-logo.png",Fashion Box HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:223_premium.smil/manifest.mpd
+
+#Musica
+
+#EXTINF:-1 tvg-id="HIT TV" group-title="Musica" ch-number="1" tvg-logo="https://media.tvup.cloud/canales/color_lg_5b1e8644dd713247dee47266.png",HIT TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1e1c6a08b2c55751a8864c568f33746e":"c8d998450425987d397599d01c1464a2","7185b2e8d86353e992fd95995424ddfd":"f359fc67c7a760cb575e4f720e65dacc","b855e601fd555db39d22331da67b872e":"c826d2dab80ae1dff6a6a2eabf5e9a75"}
+https://tvup-live.secure.footprint.net/hit-tv/hit-tv.mpd
+
+#EXTINF:-1 tvg-id="MTV Hits" group-title="Musica" ch-number="2" tvg-logo="$",MTV HITS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d14984c71567454fba90986059405d6a:e1231ad7810348b1fb63c061d5528ce7
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MTVHITS)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Sol Música" group-title="Musica" ch-number="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/SolMusica.png",Sol Música
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+
+#EXTINF:-1 tvg-id="MTV 00s" group-title="Musica" ch-number="4" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/MTV_00s_Logo.png",MTV 00s
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b382e828a19a400fa0e9b213df26997c:d0f48873cfd9c0546058eb5d47ef8f5c
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(VH1)/manifest.mpd
+
+#EXTINF:-1 tvg-id="MTV 80's" group-title="Musica" ch-number="5" tvg-logo="https://ver.zapitv.com/images/ch/60/LOGO/m/0",MTV 80s
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77318e15c3e69e56828e86528df8ff31:aa0dd9bbf74de516e23daaa9d5318cc2
+https://cache2.zapitv.com/live/eds_c2/MTV80_S/dash_live_enc/MTV80_S.mpd
+
+#EXTINF:-1 tvg-id="MTV 90S" group-title="Musica" ch-number="6" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/MTV90s_200x200.png",MTV 90S
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80842567ed5043a49f467658152e2e90:18b42d5637eae8c1624ff2edd79a95e1
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MTVROCKS)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Club MTV" group-title="Musica" ch-number="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/631px-Club_MTV_2021_logo.svg.png",Club MTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=558567d01e3c490f824685539f6c3471:46317fb8fb2d17c80058c89a59618f1e
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MTVDANCE)/manifest.mpd
+
+#EXTINF:-1 tvg-id="NICK MUSIC" group-title="Musica" ch-number="8" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/nick_music_200x200.png",NICK MUSIC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5cdb5dea2f4231a529c70d5e8b1a3e:0389314adfc7cde3d6f08a745711ef81
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(MTVMUSIC)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Quello Concerts" group-title="Musica" ch-number="9" tvg-logo="https://media.tvup.cloud/canales/white_lg_628b2d6a76d04a001a52833f.png",Quello Concerts
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-qello/28e101b503c6c5b1abd6e74619d9093b/.m3u8
+
+#EXTINF:-1 tvg-id="Trace Urban" group-title="Musica" ch-number=10" tvg-logo="https://media.tvup.cloud/canales/color_lg_64bfaa26aa67dd009a927794.png",Trace Urban
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-traceurban/.m3u8
+
+#EXTINF:-1 tvg-id="Trace Latina" group-title="Musica" ch-number=11" tvg-logo="https://media.tvup.cloud/canales/color_lg_6458cbea462b2c4901272564.png",Trace Latina
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-latina/.m3u8
+
+#EXTINF:-1 tvg-id="Trace Brazuca" group-title="Musica" ch-number="12" tvg-logo="https://media.tvup.cloud/canales/color_lg_6458ccb08535b3af28328edf.png",Trace Brazuca
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-brazuca/.m3u8
+
+#EXTINF:-1 tvg-id="VIVA RTV" group-title="Musica" ch-number="13" tvg-logo="https://media.tvup.cloud/canales/white_lg_62ab1699f5952e0018cf188b.png",VIVA RTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://app.viloud.tv/hls/channel/c0d91440f0b445407e7b7a4e414f64ca.m3u8
+
+#EXTINF:-1 tvg-id="La Urban TV" group-title="Musica" ch-number="14" tvg-logo="https://media.tvup.cloud/canales/white_lg_619f66e56a195c001ab2d07c.png",La Urban TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HQM Hits" group-title="Musica" ch-number="15" tvg-logo="https://hqm.es/wp-content/uploads/hits-hqm-logo.png",HQM Hits
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginPacket03/smil:173_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="HQM Latin" group-title="Musica" ch-number="16" tvg-logo="https://hqm.es/wp-content/uploads/latin-hqm-logo.png",HQM Latin
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginPacket03/smil:174_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="HQM Gin" group-title="Musica" ch-number="17" tvg-logo="https://hqm.es/wp-content/uploads/gym-hqm-logo.png",HQM Gin
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginPacket03/smil:176_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="HQM POP" group-title="Musica" ch-number="18" tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png",HQM POP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginPacket03/smil:183_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="HQM Rock" group-title="Musica" ch-number="18" tvg-logo="https://hqm.es/wp-content/uploads/rock-hqm-logo.pngHQM Rock
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginPacket03/smil:185_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="HQM Remember" group-title="Musica" ch-number="19" tvg-logo="https://hqm.es/wp-content/uploads/remember-hqm-logo.png",HQM Remember
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginPacket03/smil:212_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Mezzo" group-title="Musica" ch-number="13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MEZZO",Mezzo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0268ddf1676481bad3facdc1ba246c8:c0efffbc6dd83811a2b626ecdae6fc7f
+https://sdmezzo-dash-movistarplus.emisiondof6.com/dash/sdmezzoor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="MEZZO LIVE HD" group-title="Musica" ch-number="14" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MEZOHD",Mezzo Live
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=022d47265cf5437cb20f4df44760d82b:54c53b33b3cc6603f371ba901546a2ec
+https://livehdmezzo-dash-movistarplus.emisiondof6.com/dash/livehdmezzo.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Classica" group-title="Musica" ch-number="15" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CLASSI",Classica
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a94594a44f91419796d0011b465de529:3b97d54fd84a8aaef5fdf84140b31ba1
+https://clasica-dash-movistarplus.emisiondof6.com/dash/clasica.isml/manifest.mpd
+
+#Infantiles
+
+#EXTINF:-1 tvg-id="Enfamilia" group-title="Infantiles" ch-number="144" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/PANDA",Enfamilia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5969b9b5d5094e95b285f6f10e47b85d:3bdd76952eb0339cc470f50e1067f5f7
+https://enfamilia-dash-movistarplus.emisiondof6.com/dash/enfamilia.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Baby TV" group-title="Infantiles" ch-number="145" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/babytv_200x200.png",Baby TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77566a8724fa45ada73484b97d571d92:8092b173582ccae8dd45746c7c7405a5
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(BABYTV)/manifest.mpd
+
+#EXTINF:-1 tvg-id="DISNEY JR" group-title="Infantiles" ch-number="146" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/PLAYDC",DISNEY JR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6a165dec8d64c1b9e7c4f13641384db:0046d12ca01ab10af602dc401bd70fab
+https://jrdisney-dash-movistarplus.emisiondof6.com/dash/jrdisney.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="NICK JR" group-title="Infantiles" ch-number="147" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/nickJR_200x200.png",NICK JR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8a6efcea8c3499cbd5fa46dd070c51a:a5ffbe612b69526117a08054b384055c
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(NICKJR)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Infantiles" ch-number="148" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NICK",Nickelodeon
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=162cdd5d692648ce8c1e6328d1c68ec7:1df5a6f6188dd9be7c86f05c9501e088
+https://nickelodeon-dash-movistarplus.emisiondof6.com/dash/nickelodeon.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Dreamworks" group-title="Infantiles" ch-number="149" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/Dreamworks_200x200.jpg",DreamWorks HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b33381cfc3b4ac889247f2f5d6305c7:20f9be0e5f34b5748e00c8af17d0a0bc
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(DREAMWORKS)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Boing" group-title="Infantiles" ch-number="150" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BOING",Boing
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38132dfbd1eb40738d9a474f7e0de4e3:2460d0660fe5e678f2158253411a6f35
+https://boing-dash-movistarplus.emisiondof6.com/dash/boingor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Lolly Kids" group-title="Infantiles" ch-number="151" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/lollykids_200x200.jpg",Lolly Kids
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e8dc271ca744e3194411fbb6684acc3:e1ebbd0eb7ab7281fe9e322682dcea82
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(LOLLYKIDS)/manifest.mpd
+
+#EXTINF:-1 tvg-id="DuckTV" group-title="Infantiles" ch-number="154" tvg-logo="https://media.tvup.cloud/canales/color_lg_63fcdb5499e4e400243a4cf0.png",DuckTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://daiconnect.com/live/hls/tvup/tvfy-duck/352a3bfa451ba953b7f86e56c3462825/.m3u8
+
+#© 3usAttcK ®
+#MundoTOROS
+
+#EXTINF:-1 tvg-id="OneToro TV" group-title="Mundotoro" ch-number="155 "tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png",OneToro TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mKbZmeLqWZN0PbJgiNR2eA", "kid":"2EA/wmO5WcGqIwO1oTo7AA" },{ "kty":"oct", "k":"WoUPspKjnu6rnBpPMSXAhg", "kid":"Yz+AAIS6V8yuFM1fs3P0ag" },{ "kty":"oct", "k":"Gqm4zOKgGUCTPHMQMcfkng", "kid":"OVs14RxiXAihDaAppz2lrA" }]}
+#EXTVLCOPT:http-referer=https://tivify.tv/
+#EXTVLCOPT:http-user-agent=Chrome/111.0.0.0
+https://tvup-live.secure.footprint.net/mundotoros/mundotoros.mpd
+
+#EXTINF:-1 tvg-id="Torole Tv" group-title="Mundotoro" ch-number="156" tvg-logo="https://ver.zapitv.com/images/ch/322/LOGO/m/0",Torole Tv
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c665d716114f89d3162d0337be3a66d4:fb5d7ee6db86bb87b0312861b8252582
+https://cache2.zapitv.com/live/eds_c2/torole/dash_live_enc/torole.mpd
+
+#Cine de estreno
+
+#EXTINF:0 tvg-id="Taquilla 1" group-title="Cine de estreno" ch-number="1" tvg-logo="https://pics.filmaffinity.com/fatum-818393731-large.jpg" group-title="peliculas",FATUM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","c17c1e5a0aa44a17b3129024d352dc6f":"76668356c372bd2ceafa9083d64ff492","f508a7020db1498b8bc04051c77c201e":"69f12eb330233e5c51ed665833b12fc3"}
+https://s3-dub-2.cf.dash.row.aiv-cdn.net/dm/2$d87dRyZNZPcmxc3bPtAcb5gpdH0~/1@b4e6e1c68323f65372f79b45e062728d/9a86/ede0/fae3/4f8d-8891-7efee31dcf2c/5f617058-8d6d-40f6-83f2-479ddb60e6c0_corrected.mpd?custom=true&encoding=segmentBase&amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:0 tvg-id="Taquilla 2" group-title="Cine de estreno" ch-number="2" tvg-logo="https://pics.filmaffinity.com/maneater-252791964-mmed.jpg" group-title="peliculas",Maneater
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6ff","69a8df1ac3974eea8d59d28b584e8380":"ddd9adc9b2cb9c12716709e78a15d6fb","8db04303c00c4ca7919bd9bb7de81985":"13114f45ac75de899b8b3d49b45e1f58"}
+https://s3-dub-2.cf.dash.row.aiv-cdn.net/dm/2$EOxxhQddZR5gvDupMzFPNjjMTT8~/1@69d19c1ccef6157454ae626f84156331/546a/c363/ccd9/44b6-9dd4-113bc7d5e35d/92be00d3-b098-4d47-97e2-b8b072d2fe65_corrected.mpd?custom=true&encoding=segmentBase&amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:0 tvg-id="Taquilla 3" group-title="Cine de estreno" ch-number="3" tvg-logo="https://pics.filmaffinity.com/wrong_place-921496437-large.jpg" group-title="peliculas",en el lugar equivocado
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","5454fe41981d408799dbc8f72e0fe55d":"20a739ebaf88710b4b6c8bd62b8f04db","8c7c8c791bf8458dbe7e08874b2d2ea6":"9fa12c60ad26c40ec208bf8cfdef7874"}
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://pop-es-cf.dash.pv-cdn.net/dm/2$h2UrwYI1tcfE45S-nnH38boXC9g~/1@fb0d928105bf65d802c1e493ccdc92b9/27fe/41f7/e9e6/474b-9d21-9aa103060cfa/7750a454-edec-4337-8748-bcff6b900b01_corrected.mpd?custom=true&encoding=segmentBase&amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:0 tvg-id="Taquilla 4" group-title="Cine de estreno" ch-number="4" tvg-name="" tvg-logo="https://pics.filmaffinity.com/beautiful_disaster-325608225-large.jpg" ,MARAVILLOSO DESASTRE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","4319efc7d0db47069f49095957f383c1":"149ff446a667b8945e0d95195920eb84","afb6b8e39d6b419bbda290a0678a0939":"7a6295aec0a69a8f5809a35c9de0bbf2"}
+https://pop-es-cf.dash.pv-cdn.net/dm/2$H7mqdOK1hRCJlPMykwMeHvNDdqY~/eabd/bf4c/f8bb/4a33-887f-4846788d754a/92517477-7d99-47f4-baed-51aa49e67378_corrected.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:0 tvg-id="Taquilla 5" group-title="Cine de estreno" ch-number="5" tvg-name="" tvg-logo="https://pics.filmaffinity.com/scream_vi-826495425-large.jpg" ,Scream VI
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","b8451dcaf1764606a929aea3f792ca4a":"b08ff17e883070f193f7186b8b5bd64e","75120445887b468aad540b0300392ca8":"2b03938d4d70553db551c70e9fab74ce"}
+https://pop-es-cf.dash.pv-cdn.net/dm/2$CSLI-s2MQ5YvXchJcYOGu-WLq9w~/00fd/b956/861f/4192-9c2b-8808857bdf66/52d1bf46-91e3-4b74-963b-e29b4c0d9f08_corrected.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:0 tvg-id="Taquilla 6" group-title="Cine de estreno" ch-number="6" tvg-name="" tvg-logo="https://pics.filmaffinity.com/marlowe-770445566-large.jpg" ,Marlowe
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","2041bd9f809140cbbca7ee838504055f":"851bc0c682b57ff22be3ca95585285a2","1aa0f6381e1d407086fb47e3f304c601":"f7a527a9e1b8cbe24647d5ba117b82a8"}
+https://pop-es-cf.dash.pv-cdn.net/dm/2$EiiaK8jccnH-4Jt0nxhPtfKTmKA~/d47f/8920/c80a/4ff7-a45a-6b1b0f1689af/8bd32eb7-9e7c-4844-a205-4bba4962a6dd_corrected.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:0 tvg-id="Taquilla 7" group-title="Cine de estreno" ch-number="7" tvg-name="" tvg-logo="https://pics.filmaffinity.com/ferrari_race_to_immortality-337753545-large.jpg" ,Carrera a la inmortalidad
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00008d9dc8190c35bc43401c4859f425:7ab58355266fe4e5a21a1db29256aeeb
+https://g003-vod-eu-cmaf-prd-cf.pcdn01.cssott.com/SST/7D/GMO_00000000187403_02/SST_1669086823067-4Ph0-_01/mpeg_cenc_2sec/master_manifest_default_r20.mpd?c3.ri=13502160161446048292&audio=all&subtitle=all&forcedNarrative=true&trickplay=true
+
+#EXTINF:0 tvg-id="Taquilla 8" group-title="Cine de estreno" ch-number="8" tvg-name="" tvg-logo="https://pics.filmaffinity.com/evil_dead_rise-613075292-large.jpg" ,Posesión Infernal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"01007de2d0d38031d3e8f4632b51a98e":"8cfe25d5d4e3466ee00c06276541f306","0105af4b7006d40aa4a27e11f011c5fd":"4872718186bc6c7805571f8ab80e1b25","01010363ac33f71cc2d14dda1674e763":"d303e75560fcf697b36bccb4de9d4b62","010356bcbcb3c345d969fd055a8fc2d6":"1acc18eae699c4bde8fd7a75a5f619aa"}
+https://manifests.api.hbo.com/dash.mpd?f.audioTrack=en-US%7Cdescriptive%2Cprogram&f.audioTrack=es-ES%7Cprogram&f.textTrack=en-US&f.textTrack=es-ES&r.duration=5785.070958&r.host=https%3A%2F%2Fcmaf.akm.eu.hbomaxcdn.com&r.keymod=2&r.main=0&r.manifest=videos%2FGZDRchQxXCcPDwgEAABPO%2F8_1f25d3.mpd&r.origin=cmaf#/dash/POSESION INFERNAL
+
+#EXTINF:0 tvg-id="Taquilla 9" group-title="Cine de estreno" ch-number="9" tvg-name="" tvg-logo="https://resizing.flixster.com/qFWuFkblmq1olnUJ91uuB-PS23Q=/206x305/v2/https://flxt.tmsimg.com/assets/p22506983_b_v13_aa.jpg" ,Trump-unprecedented Capitulo 1 El rugido
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe29d2f88faa473b8a9dd782c7492d02:c9cebed7f2fad57c2d46ce201270031a
+https://dplus-es-cloudfront.prod-vod.h264.io/46108da5-4887-432f-aa61-b0faccb628b2/dash_widevinePlayready_fmp4/x-discovery-token=Expires=1693747521&KeyName=primary&Signature=d_g5r6n--wdx-hgGQpyELUZn4K4/master.mpd?mfs=GgoKCBICEAEaAhAB
+
+#EXTINF:0 tvg-id="Taquilla 10" group-title="Cine de estreno" ch-number="10" tvg-name="" tvg-logo="https://resizing.flixster.com/qFWuFkblmq1olnUJ91uuB-PS23Q=/206x305/v2/https://flxt.tmsimg.com/assets/p22506983_b_v13_aa.jpg" ,Trump-unprecedented Capitulo 2 Caos y locura
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8852706f17e04f6d8742b6ea3732f43a:92ccbd3e0586015d590d953b18751616
+https://dplus-es-cloudfront.prod-vod.h264.io/3d6ea481-75a6-477f-85e4-24f19e72adef/dash_widevinePlayready_fmp4/x-discovery-token=Expires=1693749613&KeyName=primary&Signature=jVkCpqnVt1RWIQ3mcu7947mE-QA/master.mpd?mfs=GgoKCBICEAEaAhAB
+
+#EXTINF:0 tvg-id="Taquilla 11" group-title="Cine de estreno" ch-number="11" tvg-name="" tvg-logo="https://resizing.flixster.com/qFWuFkblmq1olnUJ91uuB-PS23Q=/206x305/v2/https://flxt.tmsimg.com/assets/p22506983_b_v13_aa.jpg" ,Trump-unprecedented Capitulo 3 El detonante
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e4ce392e60c4a5baca1420537699493:e817a73c9b56733915c8598db770d67d
+https://dplus-es-prod-vod.akamaized.net/df1801ee-baf3-4186-a25a-d21d94930543/dash_widevinePlayready_fmp4/hdntl=exp=1693751332~acl=/df1801ee-baf3-4186-a25a-d21d94930543/dash_widevinePlayready_fmp4/*~data=hdntl~hmac=d7adbbab7569250f60959e78050a37a0481db61085335ae7eaecc51fe8dd1a8d/master.mpd?mfs=GgoKCBICEAEaAhAB
+
+#Adultos
+
+#EXTINF:-1 tvg-id="Private" group-title="Adultos" ch-number="1" tvg-logo="https://media.tvup.cloud/canales/color_lg_5f5767321bd3b90064cd8785.png",Private
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52ef957352fd5ee2a00deb7f6afa736b":"bc8433d03767ea44436d37d53c76579c","8dcd041af3dd5cbfaecc224331f94602":"b4582b3b9b7fe9f54b170dfb14eef359","23fcc2016b2b50b9b5a13cc318994007":"969b66268db459ece60bf29bfa4fd196"}
+https://tvup-live.secure.footprint.net/private/private.mpd
+
+#EXTINF:-1 tvg-id="Hustler TV" group-title="Adultos" ch-number="2" tvg-logo="https://media.tvup.cloud/canales/color_lg_5f5766dfcf6e100064479cd1.png",Hustler TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"52ef957352fd5ee2a00deb7f6afa736b":"bc8433d03767ea44436d37d53c76579c","8dcd041af3dd5cbfaecc224331f94602":"b4582b3b9b7fe9f54b170dfb14eef359","23fcc2016b2b50b9b5a13cc318994007":"969b66268db459ece60bf29bfa4fd196"}
+https://tvup-live.secure.footprint.net/hustler/hustler.mpd
+
+#EXTINF:-1 tvg-id="Dorcel TV" group-title="Adultos" ch-number="3" tvg-logo="https://i.ibb.co/sQcrG7p/dorceltv.png",Dorcel TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ca0aad404d5386acfbf6c71a9b967fc:8b79e1abb92cdc3615352bb25ef591dc
+https://secure-cdn3-live-mlflux-net.akamaized.net/public/dorceltv/dorceltv.isml/fullhd25shft.mpd
+
+#EXTINF:-1 tvg-id="Dorcel TV 3 equis" group-title="Adultos" ch-number="4" tvg-logo="https://i.ibb.co/nz3VTQd/dorcel-xxx.png",Dorcel TV 3 equis
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbcf4ed999e09091bbaddfbb04648359:42ea0026365d8083787b81ebf86b4df6
+https://secure-cdn3-live-mlflux-net.akamaized.net/public/dorcelxxx/dorcelxxx.isml/fullhd25shft.mpd
+
+#EXTINF:-1 tvg-id="Vixen TV" group-title="Adultos" ch-number="5" tvg-logo="https://i.ibb.co/mT9jTnL/vixen.png",Vixen TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c5a7dec5182fdcde19abbd0a3e9ed4e:2fff3edd33208b9d9c860633b76b6969
+https://secure-cdn3-live-mlflux-net.akamaized.net/public/vixen/vixen.isml/fullhd25shft.mpd
+
+#EXTINF:-1 tvg-id="PLAYBOY TV" group-title="Adultos" ch-number="6" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/PlayboyTV.png",PLAYBOY TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74b640d313f24520abf652ddbaed0b09:1ba6f26c413608de3a5ef8288342fc53
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(PLAYBOY)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Hustler TV" group-title="Adultos" ch-number="7" tvg-logo="https://i.ibb.co/82GRp3V/hustlertv.png",Hustler TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:155_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Blue Hustler" group-title="Adultos" ch-number="8" tvg-logo="https://i.ibb.co/C81tZPV/bluehustler.png",Blue Hustler
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:181_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Private" group-title="Adultos" ch-number="9" tvg-logo="https://media.tvup.cloud/canales/color_lg_5f5767321bd3b90064cd8785.png",Private
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:156_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="REDLIGHT" group-title="Adultos" ch-number="10",REDLIGHT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:157_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="EROX HD" group-title="Adultos" ch-number="11",EROX HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="EROXXX HD" group-title="Adultos" ch-number="12",EROXXX HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_premium.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="Milf TV" group-title="Adultos" ch-number="13" tvg-logo="https://zapitv.com/wp-content/uploads/2021/07/MILFTV2.png",Milf TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a73b18030576566c48394b47d40dbe16:a9dbb6ec75477ca73e2601793869caf5
+https://cache4.zapitv.com/live/eds_c2/milf_tv/dash_live_enc/milf_tv.mpd
+
+#EXTINF:-1 tvg-id="Lesbian TV" group-title="Adultos" ch-number="14" tvg-logo="https://zapitv.com/wp-content/uploads/2021/07/LESBIANTV2.png",Lesbian TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=363cce949f53402b5f9fb0ae4b3c0d6e:f20305901d21bb1991596f16c02a4dc7
+https://cache4.zapitv.com/live/eds_c2/lesbian_tv/dash_live_enc/lesbian_tv.mpd
+
+#EXTINF:-1 tvg-id="Free TV" group-title="Adultos" ch-number="15" tvg-logo="https://zapitv.com/wp-content/uploads/2021/07/FREE-XTV-zapi-tv.png",Free TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79e7b3f85547e2486effe281d13f6cbc:49183a00196ee3fa62d1300e01a09172
+https://cache2.zapitv.com/live/eds_c2/free_x_tv/dash_live_enc/free_x_tv.mpd
+
+#EXTINF:-1 tvg-id="French Lover TV" group-title="Adultos" ch-number="16" tvg-logo="https://zapitv.com/wp-content/uploads/2021/07/FRENCHLOVERTV-zapi-tv-1.png",French Lover TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe3394850a25639ecf98926623872266:462fd6ad055d9ac1acab013d73af7db3
+https://cache2.zapitv.com/live/eds_c2/frenchlover_tv/dash_live_enc/frenchlover_tv.mpd
+
+#EXTINF:-1 tvg-id="Teen TV" group-title="Adultos" ch-number="17" tvg-logo="https://zapitv.com/wp-content/uploads/2021/07/TEENTV2.png",Teen TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20e7623ee0a1fce3808ae40d8334af80:b5be14b1bfd6adb08c98a5b56ff0d94a
+https://cache2.zapitv.com/live/eds_c2/teen_tv/dash_live_enc/teen_tv.mpd
+
+#EXTINF:-1 tvg-id="Trans TV" group-title="Adultos" ch-number="18" tvg-logo="https://zapitv.com/wp-content/uploads/2021/07/TRANSTV2.png",Trans TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0125e1222c53e1477572827b8a4e47ce:5418baa003929185560479cd1713dbf4
+https://cache2.zapitv.com/live/eds_c2/trans_tv/dash_live_enc/trans_tv.mpd
+
