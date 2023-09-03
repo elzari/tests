@@ -1,0 +1,9 @@
+#EXTINF:-1 tvg-id="Mundotoro TV" group-title="Mundotoro" ch-number="60 "tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png",Mundotoro TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb35905eebfe4af086946c2b06e8b46a:e29b3d9f2d134ecf50aabef426cc543e
+https://live.mundotoro.tv/Mundo_Toro_46f87418b1c4_DRM/index.mpd
+
+
+
